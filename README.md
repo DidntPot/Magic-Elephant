@@ -6,3 +6,5 @@ For now, this Server Software is under extrem strong development.
 
 This Software using Libarys instead of Plugins like other Server Software.
 Contributions are welcome.
+
+For Contributers, please make sure you have read the CONTRIBUTION.MD.
