@@ -3,7 +3,7 @@ A new Minecraft Bedrock Server Software written in Go.
 
 For now, this Server Software is under extrem strong development.
 
-![Alpaca](https://www.google.com/search?q=alpaka+minecraft&client=ms-android-samsung&prmd=sivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFofm8l_X2AhWciv0HHWYUAOgQ_AUoAnoECAIQAg&biw=412&bih=751&dpr=2.63#imgrc=_gjVWBZQpTOZMM)
+
 
 
 This Software using Libarys instead of Plugins like other Server Softwares.
