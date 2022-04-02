@@ -8,17 +8,17 @@
 
          "fmt" 
 
-         "github.com/df-mc/dragonfly/server/block/cube" 
+         "github.com/Pocketminer92/magic-alpaca/server/block/cube" 
 
-         "github.com/df-mc/dragonfly/server/internal/nbtconv" 
+         "github.com/Pocketminer92/magic-alpaca/server/internal/nbtconv" 
 
-         "github.com/df-mc/dragonfly/server/item" 
+         "github.com/Pocketminer92/magic-alpaca/server/item" 
 
-         "github.com/df-mc/dragonfly/server/item/inventory" 
+         "github.com/Pocketminer92/magic-alpaca/server/item/inventory" 
 
-         "github.com/df-mc/dragonfly/server/world" 
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
 
-         "github.com/df-mc/dragonfly/server/world/sound" 
+         "github.com/Pocketminer92/magic-alpaca/server/world/sound" 
 
          "github.com/go-gl/mathgl/mgl64" 
 
