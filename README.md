@@ -23,4 +23,4 @@ Contributions are very welcome! Issues, pull requests and feature requests are h
 # **WORLDS**
 
 You can easy import all you're existing Minecraft Worlds.
-You need a Folder called called "BEWE", create it and upload youre Minecraft World here.
+You need a Folder called "BEWE", create it and upload youre Minecraft World here.
