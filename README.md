@@ -1,7 +1,7 @@
 # **MAGIC-ALPACA**
 
 
-https://raw.githubusercontent.com/Magic-Alpaca/magic-alpaca/main/.github/images/MAGIC-ALPACA_1.png
+https://raw.githubusercontent.com/PocketMiner92/Magic-Alpaca/main/.github/Images/MAGIC-ALPACA_1.png
 
 
 *A new Minecraft Bedrock Server Software written in Go.*
