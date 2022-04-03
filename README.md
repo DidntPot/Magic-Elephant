@@ -24,3 +24,6 @@ Contributions are very welcome! Issues, pull requests and feature requests are h
 
 You can easy import all you're existing Minecraft Worlds.
 You need a Folder called "BEWE", create it and upload youre Minecraft World here.
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
