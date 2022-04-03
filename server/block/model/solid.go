@@ -1,0 +1,45 @@
+ 
+
+ package model 
+
+  
+
+ import ( 
+
+         "github.com/Pocketminer92/magic-alpaca/server/block/cube" 
+
+         "github.com/Pocketminer92/magic-alpaca/server/entity/physics" 
+
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
+
+         "github.com/go-gl/mathgl/mgl64" 
+
+ ) 
+
+  
+
+ // Solid is the model of a fully solid block. Blocks with this model, such as stone or wooden planks, have a 
+
+ // 1x1x1 collision box. 
+
+ type Solid struct{} 
+
+  
+
+ // AABB returns a physics.AABB spanning a full block. 
+
+ func (Solid) AABB(cube.Pos, *world.World) []physics.AABB { 
+
+         return []physics.AABB{physics.NewAABB(mgl64.Vec3{}, mgl64.Vec3{1, 1, 1})} 
+
+ } 
+
+  
+
+ // FaceSolid always returns true. 
+
+ func (Solid) FaceSolid(cube.Pos, cube.Face, *world.World) bool { 
+
+         return true 
+
+ }
