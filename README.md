@@ -1,5 +1,3 @@
-# **MAGIC-ALPACA**
-
 
 <img alt="Magic-Alpaca" width="838" src="https://raw.githubusercontent.com/PocketMiner92/Magic-Alpaca/main/.github/Images/MAGIC-ALPACA_1.png" />
 
