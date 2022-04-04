@@ -30,5 +30,13 @@
 
 *You need a Folder called "BEWE", create it and upload youre Minecraft World here.*
 
+# **INSTALLATION**
+
+#### Installation as library
+```
+go mod init github.com/<user>/<module name>
+go get github.com/Pocketminer92/magic-alpaca
+```
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
