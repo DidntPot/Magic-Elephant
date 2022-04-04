@@ -48,4 +48,5 @@ go run main.go
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Go Reference](https://pkg.go.dev/badge/github.com/PocketMiner92/Magic-Alpaca.svg)](https://pkg.go.dev/github.com/PocketMiner92/Magic-Alpaca)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PocketMiner92/Magic-Alpaca/graphs/commit-activity)
+
 [![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
