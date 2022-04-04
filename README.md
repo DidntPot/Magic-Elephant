@@ -38,5 +38,11 @@ go mod init github.com/<user>/<module name>
 go get github.com/Pocketminer92/magic-alpaca
 ```
 
+#### Installation of the latest commit
+```
+git clone https://github.com/Pocketminer92/magic-alpaca
+cd magic-alpaca
+go run main.go
+```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
