@@ -38,7 +38,7 @@
 
          readEnchantments(data, s) 
 
-         readDragonflyData(data, s) 
+         readDMagic-AlpacaData(data, s) 
 
          return *s 
 
@@ -190,13 +190,13 @@
 
   
 
- // readDragonflyData reads data written to the dragonflyData field in the NBT of an item and adds it to the item.Stack 
+ // readMagic-AlpacaData reads data written to the dragonflyData field in the NBT of an item and adds it to the item.Stack 
 
  // passed. 
 
- func readDragonflyData(m map[string]any, s *item.Stack) { 
+ func readMagic-AlpacaData(m map[string]any, s *item.Stack) { 
 
-         if customData, ok := m["dragonflyData"]; ok { 
+         if customData, ok := m["Magic-AlpacaData"]; ok { 
 
                  d, ok := customData.([]byte) 
 
