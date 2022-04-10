@@ -1,5 +1,5 @@
 
-<img alt="Magic-Alpaca" width="838" src="https://raw.githubusercontent.com/PocketMiner92/Magic-Alpaca/main/.github/Images/MAGIC-ALPACA_1.png" />
+<img alt="Magic-Elephant" width="838" src="https://i.imgflip.com/4/2rdw80.jpg" />
 
 
 *A new Minecraft Bedrock Server Software written in php.*
