@@ -1,0 +1,2839 @@
+ 
+
+          
+
+ �nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typeoakversion���nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typespruceversion���nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typebirchversion���nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typejungleversion���nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typeacaciaversion���nameminecraft:planksmetanbtCgAA 
+
+ blocknameminecraft:planks 
+
+ states        wood_typedark_oakversion���nameminecraft:crimson_planksmetanbtCgAA 
+
+ blocknameminecraft:crimson_planks 
+
+ statesversion���nameminecraft:warped_planksmetanbtCgAA 
+
+ blocknameminecraft:warped_planks 
+
+ statesversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typecobblestoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typemossy_cobblestoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typegraniteversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typedioritewall_connection_type_eastnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_block_typeandesitewall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ states wall_post_bitwall_block_type        sandstonewall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_westnone wall_post_bitwall_block_type red_sandstonewall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typestone_brickwall_connection_type_eastnonewall_connection_type_northnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typemossy_stone_brickwall_connection_type_eastnonewall_connection_type_northnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ states wall_post_bitwall_block_typebrickwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_typenether_brickwall_connection_type_eastnonewall_connection_type_northnoneversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_block_typered_nether_brickwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_block_type        end_brickwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitversion���nameminecraft:cobblestone_wallmetanbtCgAA 
+
+ blocknameminecraft:cobblestone_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_block_type 
+
+ prismarineversion���nameminecraft:blackstone_wallmetanbtCgAA 
+
+ blocknameminecraft:blackstone_wall 
+
+ states wall_post_bitwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���name"minecraft:polished_blackstone_wallmetanbtCgAA 
+
+ blockname"minecraft:polished_blackstone_wall 
+
+ states wall_post_bitwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���name(minecraft:polished_blackstone_brick_wallmetanbtCgAA 
+
+ blockname(minecraft:polished_blackstone_brick_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitversion���name minecraft:cobbled_deepslate_wallmetanbtCgAA 
+
+ blockname minecraft:cobbled_deepslate_wall 
+
+ stateswall_connection_type_southnonewall_connection_type_westnone wall_post_bitwall_connection_type_eastnonewall_connection_type_northnoneversion���nameminecraft:deepslate_tile_wallmetanbtCgAA 
+
+ blocknameminecraft:deepslate_tile_wall 
+
+ states wall_post_bitwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���name!minecraft:polished_deepslate_wallmetanbtCgAA 
+
+ blockname!minecraft:polished_deepslate_wall 
+
+ states wall_post_bitwall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnoneversion���nameminecraft:deepslate_brick_wallmetanbtCgAA 
+
+ blocknameminecraft:deepslate_brick_wall 
+
+ stateswall_connection_type_eastnonewall_connection_type_northnonewall_connection_type_southnonewall_connection_type_westnone wall_post_bitversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typeoakversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typespruceversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typebirchversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typejungleversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typeacaciaversion���nameminecraft:fencemetanbtCgAA 
+
+ blocknameminecraft:fence 
+
+ states        wood_typedark_oakversion���nameminecraft:nether_brick_fencemetanbtCgAA 
+
+ blocknameminecraft:nether_brick_fence 
+
+ statesversion���nameminecraft:crimson_fencemetanbtCgAA 
+
+ blocknameminecraft:crimson_fence 
+
+ statesversion���nameminecraft:warped_fencemetanbtCgAA 
+
+ blocknameminecraft:warped_fence 
+
+ statesversion���nameminecraft:fence_gatemetanbtCgAA 
+
+ blocknameminecraft:fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:spruce_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:spruce_fence_gate 
+
+ statesopen_bit        directionin_wall_bitversion���nameminecraft:birch_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:birch_fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:jungle_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:jungle_fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:acacia_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:acacia_fence_gate 
+
+ statesopen_bit        directionin_wall_bitversion���nameminecraft:dark_oak_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:dark_oak_fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:crimson_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:crimson_fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:warped_fence_gatemetanbtCgAA 
+
+ blocknameminecraft:warped_fence_gate 
+
+ states        directionin_wall_bitopen_bitversion���nameminecraft:normal_stone_stairsmetanbtCgAA 
+
+ blocknameminecraft:normal_stone_stairs 
+
+ statesweirdo_directionupside_down_bitversion���nameminecraft:stone_stairsmetanbtCgAA 
+
+ blocknameminecraft:stone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name"minecraft:mossy_cobblestone_stairsmetanbtCgAA 
+
+ blockname"minecraft:mossy_cobblestone_stairs 
+
+ statesweirdo_directionupside_down_bitversion���nameminecraft:oak_stairsmetanbtCgAA 
+
+ blocknameminecraft:oak_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:spruce_stairsmetanbtCgAA 
+
+ blocknameminecraft:spruce_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:birch_stairsmetanbtCgAA 
+
+ blocknameminecraft:birch_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:jungle_stairsmetanbtCgAA 
+
+ blocknameminecraft:jungle_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:acacia_stairsmetanbtCgAA 
+
+ blocknameminecraft:acacia_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:dark_oak_stairsmetanbtCgAA 
+
+ blocknameminecraft:dark_oak_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:stone_brick_stairsmetanbtCgAA 
+
+ blocknameminecraft:stone_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name"minecraft:mossy_stone_brick_stairsmetanbtCgAA 
+
+ blockname"minecraft:mossy_stone_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:sandstone_stairsmetanbtCgAA 
+
+ blocknameminecraft:sandstone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name!minecraft:smooth_sandstone_stairsmetanbtCgAA 
+
+ blockname!minecraft:smooth_sandstone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:red_sandstone_stairsmetanbtCgAA 
+
+ blocknameminecraft:red_sandstone_stairs 
+
+ statesweirdo_directionupside_down_bitversion���name%minecraft:smooth_red_sandstone_stairsmetanbtCgAA 
+
+ blockname%minecraft:smooth_red_sandstone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:granite_stairsmetanbtCgAA 
+
+ blocknameminecraft:granite_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name!minecraft:polished_granite_stairsmetanbtCgAA 
+
+ blockname!minecraft:polished_granite_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:diorite_stairsmetanbtCgAA 
+
+ blocknameminecraft:diorite_stairs 
+
+ statesweirdo_directionupside_down_bitversion���name!minecraft:polished_diorite_stairsmetanbtCgAA 
+
+ blockname!minecraft:polished_diorite_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:andesite_stairsmetanbtCgAA 
+
+ blocknameminecraft:andesite_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name"minecraft:polished_andesite_stairsmetanbtCgAA 
+
+ blockname"minecraft:polished_andesite_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:brick_stairsmetanbtCgAA 
+
+ blocknameminecraft:brick_stairs 
+
+ statesweirdo_directionupside_down_bitversion���nameminecraft:nether_brick_stairsmetanbtCgAA 
+
+ blocknameminecraft:nether_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name!minecraft:red_nether_brick_stairsmetanbtCgAA 
+
+ blockname!minecraft:red_nether_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:end_brick_stairsmetanbtCgAA 
+
+ blocknameminecraft:end_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:quartz_stairsmetanbtCgAA 
+
+ blocknameminecraft:quartz_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:smooth_quartz_stairsmetanbtCgAA 
+
+ blocknameminecraft:smooth_quartz_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:purpur_stairsmetanbtCgAA 
+
+ blocknameminecraft:purpur_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:prismarine_stairsmetanbtCgAA 
+
+ blocknameminecraft:prismarine_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name minecraft:dark_prismarine_stairsmetanbtCgAA 
+
+ blockname minecraft:dark_prismarine_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name"minecraft:prismarine_bricks_stairsmetanbtCgAA 
+
+ blockname"minecraft:prismarine_bricks_stairs 
+
+ statesweirdo_directionupside_down_bitversion���nameminecraft:crimson_stairsmetanbtCgAA 
+
+ blocknameminecraft:crimson_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:warped_stairsmetanbtCgAA 
+
+ blocknameminecraft:warped_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:blackstone_stairsmetanbtCgAA 
+
+ blocknameminecraft:blackstone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name$minecraft:polished_blackstone_stairsmetanbtCgAA 
+
+ blockname$minecraft:polished_blackstone_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name*minecraft:polished_blackstone_brick_stairsmetanbtCgAA 
+
+ blockname*minecraft:polished_blackstone_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:cut_copper_stairsmetanbtCgAA 
+
+ blocknameminecraft:cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name#minecraft:exposed_cut_copper_stairsmetanbtCgAA 
+
+ blockname#minecraft:exposed_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name%minecraft:weathered_cut_copper_stairsmetanbtCgAA 
+
+ blockname%minecraft:weathered_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name$minecraft:oxidized_cut_copper_stairsmetanbtCgAA 
+
+ blockname$minecraft:oxidized_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name!minecraft:waxed_cut_copper_stairsmetanbtCgAA 
+
+ blockname!minecraft:waxed_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name)minecraft:waxed_exposed_cut_copper_stairsmetanbtCgAA 
+
+ blockname)minecraft:waxed_exposed_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name+minecraft:waxed_weathered_cut_copper_stairsmetanbtCgAA 
+
+ blockname+minecraft:waxed_weathered_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name*minecraft:waxed_oxidized_cut_copper_stairsmetanbtCgAA 
+
+ blockname*minecraft:waxed_oxidized_cut_copper_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name"minecraft:cobbled_deepslate_stairsmetanbtCgAA 
+
+ blockname"minecraft:cobbled_deepslate_stairs 
+
+ statesweirdo_directionupside_down_bitversion���nameminecraft:deepslate_tile_stairsmetanbtCgAA 
+
+ blocknameminecraft:deepslate_tile_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name#minecraft:polished_deepslate_stairsmetanbtCgAA 
+
+ blockname#minecraft:polished_deepslate_stairs 
+
+ statesupside_down_bitweirdo_directionversion���name minecraft:deepslate_brick_stairsmetanbtCgAA 
+
+ blockname minecraft:deepslate_brick_stairs 
+
+ statesupside_down_bitweirdo_directionversion���nameminecraft:wooden_doormetanbtCgAAnameminecraft:spruce_doormetanbtCgAAnameminecraft:birch_doormetanbtCgAAnameminecraft:jungle_doormetanbtCgAAnameminecraft:acacia_doormetanbtCgAAnameminecraft:dark_oak_doormetanbtCgAAnameminecraft:iron_doormetanbtCgAAnameminecraft:crimson_doormetanbtCgAAnameminecraft:warped_doormetanbtCgAAnameminecraft:trapdoormetanbtCgAA 
+
+ blocknameminecraft:trapdoor 
+
+ statesupside_down_bit        directionopen_bitversion���nameminecraft:spruce_trapdoormetanbtCgAA 
+
+ blocknameminecraft:spruce_trapdoor 
+
+ states        directionopen_bitupside_down_bitversion���nameminecraft:birch_trapdoormetanbtCgAA 
+
+ blocknameminecraft:birch_trapdoor 
+
+ statesopen_bitupside_down_bit        directionversion���nameminecraft:jungle_trapdoormetanbtCgAA 
+
+ blocknameminecraft:jungle_trapdoor 
+
+ statesupside_down_bit        directionopen_bitversion���nameminecraft:acacia_trapdoormetanbtCgAA 
+
+ blocknameminecraft:acacia_trapdoor 
+
+ states        directionopen_bitupside_down_bitversion���nameminecraft:dark_oak_trapdoormetanbtCgAA 
+
+ blocknameminecraft:dark_oak_trapdoor 
+
+ statesopen_bitupside_down_bit        directionversion���nameminecraft:iron_trapdoormetanbtCgAA 
+
+ blocknameminecraft:iron_trapdoor 
+
+ states        directionopen_bitupside_down_bitversion���nameminecraft:crimson_trapdoormetanbtCgAA 
+
+ blocknameminecraft:crimson_trapdoor 
+
+ states        directionopen_bitupside_down_bitversion���nameminecraft:warped_trapdoormetanbtCgAA 
+
+ blocknameminecraft:warped_trapdoor 
+
+ statesupside_down_bit        directionopen_bitversion���nameminecraft:iron_barsmetanbtCgAA 
+
+ blocknameminecraft:iron_bars 
+
+ statesversion���nameminecraft:glassmetanbtCgAA 
+
+ blocknameminecraft:glass 
+
+ statesversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorwhiteversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorsilverversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorgrayversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorblackversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorbrownversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorredversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolororangeversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescoloryellowversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorlimeversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorgreenversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorcyanversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorblueversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorpurpleversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolormagentaversion���nameminecraft:stained_glassmetanbtCgAA 
+
+ blocknameminecraft:stained_glass 
+
+ statescolorpinkversion���nameminecraft:tinted_glassmetanbtCgAA 
+
+ blocknameminecraft:tinted_glass 
+
+ statesversion���nameminecraft:glass_panemetanbtCgAA 
+
+ blocknameminecraft:glass_pane 
+
+ statesversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorwhiteversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorsilverversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorgrayversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorblackversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorbrownversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorredversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolororangeversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescoloryellowversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorlimeversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorgreenversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorcyanversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorblueversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorpurpleversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolormagentaversion���nameminecraft:stained_glass_panemetanbtCgAA 
+
+ blocknameminecraft:stained_glass_pane 
+
+ statescolorpinkversion���nameminecraft:laddermetanbtCgAA 
+
+ blocknameminecraft:ladder 
+
+ statesfacing_directionversion���nameminecraft:scaffoldingmetanbtCgAA 
+
+ blocknameminecraft:scaffolding 
+
+ statesstability_check        stabilityversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statesstone_slab_typesmooth_stonetop_slot_bitversion���nameminecraft:double_stone_slab4metanbtCgAA 
+
+ blocknameminecraft:stone_slab4 
+
+ statesstone_slab_type_4stonetop_slot_bitversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statestop_slot_bitstone_slab_typecobblestoneversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2mossy_cobblestonetop_slot_bitversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typeoakversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typespruceversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typebirchversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typejungleversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typeacaciaversion���nameminecraft:wooden_slabmetanbtCgAA 
+
+ blocknameminecraft:wooden_slab 
+
+ statestop_slot_bit        wood_typedark_oakversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statesstone_slab_typestone_bricktop_slot_bitversion���nameminecraft:double_stone_slab4metanbtCgAA 
+
+ blocknameminecraft:stone_slab4 
+
+ statesstone_slab_type_4mossy_stone_bricktop_slot_bitversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statesstone_slab_type        sandstonetop_slot_bitversion���nameminecraft:double_stone_slab4metanbtCgAA 
+
+ blocknameminecraft:stone_slab4 
+
+ statesstone_slab_type_4 cut_sandstonetop_slot_bitversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2smooth_sandstonetop_slot_bitversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2 red_sandstonetop_slot_bitversion���nameminecraft:double_stone_slab4metanbtCgAA 
+
+ blocknameminecraft:stone_slab4 
+
+ statesstone_slab_type_4cut_red_sandstonetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3smooth_red_sandstonetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3granitetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statestop_slot_bitstone_slab_type_3polished_graniteversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3dioritetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3polished_dioritetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3andesitetop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statestop_slot_bitstone_slab_type_3polished_andesiteversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statesstone_slab_typebricktop_slot_bitversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statestop_slot_bitstone_slab_typenether_brickversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2red_nether_bricktop_slot_bitversion���nameminecraft:double_stone_slab3metanbtCgAA 
+
+ blocknameminecraft:stone_slab3 
+
+ statesstone_slab_type_3end_stone_bricktop_slot_bitversion���nameminecraft:double_stone_slabmetanbtCgAA 
+
+ blocknameminecraft:stone_slab 
+
+ statesstone_slab_typequartztop_slot_bitversion���nameminecraft:double_stone_slab4metanbtCgAA 
+
+ blocknameminecraft:stone_slab4 
+
+ statesstone_slab_type_4 smooth_quartztop_slot_bitversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2purpurtop_slot_bitversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2prismarine_roughtop_slot_bitversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statestop_slot_bitstone_slab_type_2prismarine_darkversion���nameminecraft:double_stone_slab2metanbtCgAA 
+
+ blocknameminecraft:stone_slab2 
+
+ statesstone_slab_type_2prismarine_bricktop_slot_bitversion���nameminecraft:crimson_slabmetanbtCgAA 
+
+ blocknameminecraft:crimson_slab 
+
+ statestop_slot_bitversion���nameminecraft:warped_slabmetanbtCgAA 
+
+ blocknameminecraft:warped_slab 
+
+ statestop_slot_bitversion���nameminecraft:blackstone_slabmetanbtCgAA 
+
+ blocknameminecraft:blackstone_slab 
+
+ statestop_slot_bitversion���name"minecraft:polished_blackstone_slabmetanbtCgAA 
+
+ blockname"minecraft:polished_blackstone_slab 
+
+ statestop_slot_bitversion���name(minecraft:polished_blackstone_brick_slabmetanbtCgAA 
+
+ blockname(minecraft:polished_blackstone_brick_slab 
+
+ statestop_slot_bitversion���nameminecraft:cut_copper_slabmetanbtCgAA 
+
+ blocknameminecraft:cut_copper_slab 
+
+ statestop_slot_bitversion���name!minecraft:exposed_cut_copper_slabmetanbtCgAA 
+
+ blockname!minecraft:exposed_cut_copper_slab 
+
+ statestop_slot_bitversion���name#minecraft:weathered_cut_copper_slabmetanbtCgAA 
+
+ blockname#minecraft:weathered_cut_copper_slab 
+
+ statestop_slot_bitversion���name"minecraft:oxidized_cut_copper_slabmetanbtCgAA 
+
+ blockname"minecraft:oxidized_cut_copper_slab 
+
+ statestop_slot_bitversion���nameminecraft:waxed_cut_copper_slabmetanbtCgAA 
+
+ blocknameminecraft:waxed_cut_copper_slab 
+
+ statestop_slot_bitversion���name'minecraft:waxed_exposed_cut_copper_slabmetanbtCgAA 
+
+ blockname'minecraft:waxed_exposed_cut_copper_slab 
+
+ statestop_slot_bitversion���name)minecraft:waxed_weathered_cut_copper_slabmetanbtCgAA 
+
+ blockname)minecraft:waxed_weathered_cut_copper_slab 
+
+ statestop_slot_bitversion���name(minecraft:waxed_oxidized_cut_copper_slabmetanbtCgAA 
+
+ blockname(minecraft:waxed_oxidized_cut_copper_slab 
+
+ statestop_slot_bitversion���name minecraft:cobbled_deepslate_slabmetanbtCgAA 
+
+ blockname minecraft:cobbled_deepslate_slab 
+
+ statestop_slot_bitversion���name!minecraft:polished_deepslate_slabmetanbtCgAA 
+
+ blockname!minecraft:polished_deepslate_slab 
+
+ statestop_slot_bitversion���nameminecraft:deepslate_tile_slabmetanbtCgAA 
+
+ blocknameminecraft:deepslate_tile_slab 
+
+ statestop_slot_bitversion���nameminecraft:deepslate_brick_slabmetanbtCgAA 
+
+ blocknameminecraft:deepslate_brick_slab 
+
+ statestop_slot_bitversion���nameminecraft:brick_blockmetanbtCgAA 
+
+ blocknameminecraft:brick_block 
+
+ statesversion���name minecraft:chiseled_nether_bricksmetanbtCgAA 
+
+ blockname minecraft:chiseled_nether_bricks 
+
+ statesversion���nameminecraft:cracked_nether_bricksmetanbtCgAA 
+
+ blocknameminecraft:cracked_nether_bricks 
+
+ statesversion���nameminecraft:quartz_bricksmetanbtCgAA 
+
+ blocknameminecraft:quartz_bricks 
+
+ statesversion���nameminecraft:stonebrickmetanbtCgAA 
+
+ blocknameminecraft:stonebrick 
+
+ statesstone_brick_typedefaultversion���nameminecraft:stonebrickmetanbtCgAA 
+
+ blocknameminecraft:stonebrick 
+
+ statesstone_brick_typemossyversion���nameminecraft:stonebrickmetanbtCgAA 
+
+ blocknameminecraft:stonebrick 
+
+ statesstone_brick_typecrackedversion���nameminecraft:stonebrickmetanbtCgAA 
+
+ blocknameminecraft:stonebrick 
+
+ statesstone_brick_typechiseledversion���nameminecraft:end_bricksmetanbtCgAA 
+
+ blocknameminecraft:end_bricks 
+
+ statesversion���nameminecraft:prismarinemetanbtCgAA 
+
+ blocknameminecraft:prismarine 
+
+ statesprismarine_block_typebricksversion���name$minecraft:polished_blackstone_bricksmetanbtCgAA 
+
+ blockname$minecraft:polished_blackstone_bricks 
+
+ statesversion���name,minecraft:cracked_polished_blackstone_bricksmetanbtCgAA 
+
+ blockname,minecraft:cracked_polished_blackstone_bricks 
+
+ statesversion���nameminecraft:gilded_blackstonemetanbtCgAA 
+
+ blocknameminecraft:gilded_blackstone 
+
+ statesversion���name&minecraft:chiseled_polished_blackstonemetanbtCgAA 
+
+ blockname&minecraft:chiseled_polished_blackstone 
+
+ statesversion���nameminecraft:deepslate_tilesmetanbtCgAA 
+
+ blocknameminecraft:deepslate_tiles 
+
+ statesversion���name!minecraft:cracked_deepslate_tilesmetanbtCgAA 
+
+ blockname!minecraft:cracked_deepslate_tiles 
+
+ statesversion���nameminecraft:deepslate_bricksmetanbtCgAA 
+
+ blocknameminecraft:deepslate_bricks 
+
+ statesversion���name"minecraft:cracked_deepslate_bricksmetanbtCgAA 
+
+ blockname"minecraft:cracked_deepslate_bricks 
+
+ statesversion���nameminecraft:chiseled_deepslatemetanbtCgAA 
+
+ blocknameminecraft:chiseled_deepslate 
+
+ statesversion���nameminecraft:cobblestonemetanbtCgAA 
+
+ blocknameminecraft:cobblestone 
+
+ statesversion���nameminecraft:mossy_cobblestonemetanbtCgAA 
+
+ blocknameminecraft:mossy_cobblestone 
+
+ statesversion���nameminecraft:cobbled_deepslatemetanbtCgAA 
+
+ blocknameminecraft:cobbled_deepslate 
+
+ statesversion���nameminecraft:smooth_stonemetanbtCgAA 
+
+ blocknameminecraft:smooth_stone 
+
+ statesversion���nameminecraft:sandstonemetanbtCgAA 
+
+ blocknameminecraft:sandstone 
+
+ statessand_stone_typedefaultversion���nameminecraft:sandstonemetanbtCgAA 
+
+ blocknameminecraft:sandstone 
+
+ statessand_stone_typeheiroglyphsversion���nameminecraft:sandstonemetanbtCgAA 
+
+ blocknameminecraft:sandstone 
+
+ statessand_stone_typecutversion���nameminecraft:sandstonemetanbtCgAA 
+
+ blocknameminecraft:sandstone 
+
+ statessand_stone_typesmoothversion���nameminecraft:red_sandstonemetanbtCgAA 
+
+ blocknameminecraft:red_sandstone 
+
+ statessand_stone_typedefaultversion���nameminecraft:red_sandstonemetanbtCgAA 
+
+ blocknameminecraft:red_sandstone 
+
+ statessand_stone_typeheiroglyphsversion���nameminecraft:red_sandstonemetanbtCgAA 
+
+ blocknameminecraft:red_sandstone 
+
+ statessand_stone_typecutversion���nameminecraft:red_sandstonemetanbtCgAA 
+
+ blocknameminecraft:red_sandstone 
+
+ statessand_stone_typesmoothversion���nameminecraft:coal_blockmetanbtCgAA 
+
+ blocknameminecraft:coal_block 
+
+ statesversion���nameminecraft:dried_kelp_blockmetanbtCgAA 
+
+ blocknameminecraft:dried_kelp_block 
+
+ statesversion���nameminecraft:gold_blockmetanbtCgAA 
+
+ blocknameminecraft:gold_block 
+
+ statesversion���nameminecraft:iron_blockmetanbtCgAA 
+
+ blocknameminecraft:iron_block 
+
+ statesversion���nameminecraft:copper_blockmetanbtCgAA 
+
+ blocknameminecraft:copper_block 
+
+ statesversion���nameminecraft:exposed_coppermetanbtCgAA 
+
+ blocknameminecraft:exposed_copper 
+
+ statesversion���nameminecraft:weathered_coppermetanbtCgAA 
+
+ blocknameminecraft:weathered_copper 
+
+ statesversion���nameminecraft:oxidized_coppermetanbtCgAA 
+
+ blocknameminecraft:oxidized_copper 
+
+ statesversion���nameminecraft:waxed_coppermetanbtCgAA 
+
+ blocknameminecraft:waxed_copper 
+
+ statesversion���nameminecraft:waxed_exposed_coppermetanbtCgAA 
+
+ blocknameminecraft:waxed_exposed_copper 
+
+ statesversion���name minecraft:waxed_weathered_coppermetanbtCgAA 
+
+ blockname minecraft:waxed_weathered_copper 
+
+ statesversion���nameminecraft:waxed_oxidized_coppermetanbtCgAA 
+
+ blocknameminecraft:waxed_oxidized_copper 
+
+ statesversion���nameminecraft:cut_coppermetanbtCgAA 
+
+ blocknameminecraft:cut_copper 
+
+ statesversion���nameminecraft:exposed_cut_coppermetanbtCgAA 
+
+ blocknameminecraft:exposed_cut_copper 
+
+ statesversion���nameminecraft:weathered_cut_coppermetanbtCgAA 
+
+ blocknameminecraft:weathered_cut_copper 
+
+ statesversion���nameminecraft:oxidized_cut_coppermetanbtCgAA 
+
+ blocknameminecraft:oxidized_cut_copper 
+
+ statesversion���nameminecraft:waxed_cut_coppermetanbtCgAA 
+
+ blocknameminecraft:waxed_cut_copper 
+
+ statesversion���name"minecraft:waxed_exposed_cut_coppermetanbtCgAA 
+
+ blockname"minecraft:waxed_exposed_cut_copper 
+
+ statesversion���name$minecraft:waxed_weathered_cut_coppermetanbtCgAA 
+
+ blockname$minecraft:waxed_weathered_cut_copper 
+
+ statesversion���name#minecraft:waxed_oxidized_cut_coppermetanbtCgAA 
+
+ blockname#minecraft:waxed_oxidized_cut_copper 
+
+ statesversion���nameminecraft:emerald_blockmetanbtCgAA 
+
+ blocknameminecraft:emerald_block 
+
+ statesversion���nameminecraft:diamond_blockmetanbtCgAA 
+
+ blocknameminecraft:diamond_block 
+
+ statesversion���nameminecraft:lapis_blockmetanbtCgAA 
+
+ blocknameminecraft:lapis_block 
+
+ statesversion���nameminecraft:raw_iron_blockmetanbtCgAA 
+
+ blocknameminecraft:raw_iron_block 
+
+ statesversion���nameminecraft:raw_copper_blockmetanbtCgAA 
+
+ blocknameminecraft:raw_copper_block 
+
+ statesversion���nameminecraft:raw_gold_blockmetanbtCgAA 
+
+ blocknameminecraft:raw_gold_block 
+
+ statesversion���nameminecraft:quartz_blockmetanbtCgAA 
+
+ blocknameminecraft:quartz_block 
+
+ statespillar_axisychisel_typedefaultversion���nameminecraft:quartz_blockmetanbtCgAA 
+
+ blocknameminecraft:quartz_block 
+
+ statespillar_axisychisel_typelinesversion���nameminecraft:quartz_blockmetanbtCgAA 
+
+ blocknameminecraft:quartz_block 
+
+ stateschisel_typechiseledpillar_axisyversion���nameminecraft:quartz_blockmetanbtCgAA 
+
+ blocknameminecraft:quartz_block 
+
+ stateschisel_typesmoothpillar_axisyversion���nameminecraft:prismarinemetanbtCgAA 
+
+ blocknameminecraft:prismarine 
+
+ statesprismarine_block_typedefaultversion���nameminecraft:prismarinemetanbtCgAA 
+
+ blocknameminecraft:prismarine 
+
+ statesprismarine_block_typedarkversion���nameminecraft:slimemetanbtCgAA 
+
+ blocknameminecraft:slime 
+
+ statesversion���nameminecraft:honey_blockmetanbtCgAA 
+
+ blocknameminecraft:honey_block 
+
+ statesversion���nameminecraft:honeycomb_blockmetanbtCgAA 
+
+ blocknameminecraft:honeycomb_block 
+
+ statesversion���nameminecraft:hay_blockmetanbtCgAA 
+
+ blocknameminecraft:hay_block 
+
+ states 
+
+ deprecatedpillar_axisyversion���nameminecraft:bone_blockmetanbtCgAA 
+
+ blocknameminecraft:bone_block 
+
+ states 
+
+ deprecatedpillar_axisyversion���nameminecraft:nether_brickmetanbtCgAA 
+
+ blocknameminecraft:nether_brick 
+
+ statesversion���nameminecraft:red_nether_brickmetanbtCgAA 
+
+ blocknameminecraft:red_nether_brick 
+
+ statesversion���nameminecraft:netherite_blockmetanbtCgAA 
+
+ blocknameminecraft:netherite_block 
+
+ statesversion���nameminecraft:lodestonemetanbtCgAA 
+
+ blocknameminecraft:lodestone 
+
+ statesversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorwhiteversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorsilverversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorgrayversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorblackversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorbrownversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorredversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolororangeversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescoloryellowversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorlimeversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorgreenversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorcyanversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorblueversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorpurpleversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolormagentaversion���nameminecraft:woolmetanbtCgAA 
+
+ blocknameminecraft:wool 
+
+ statescolorpinkversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorwhiteversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorsilverversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorgrayversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorblackversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorbrownversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorredversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolororangeversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescoloryellowversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorlimeversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorgreenversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorcyanversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorblueversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorpurpleversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolormagentaversion���nameminecraft:carpetmetanbtCgAA 
+
+ blocknameminecraft:carpet 
+
+ statescolorpinkversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorwhiteversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorsilverversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorgrayversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorblackversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorbrownversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorredversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolororangeversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescoloryellowversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorlimeversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorgreenversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorcyanversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorblueversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorpurpleversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolormagentaversion���nameminecraft:concrete_powdermetanbtCgAA 
+
+ blocknameminecraft:concretePowder 
+
+ statescolorpinkversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorwhiteversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorsilverversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorgrayversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorblackversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorbrownversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorredversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolororangeversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescoloryellowversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorlimeversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorgreenversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorcyanversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorblueversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorpurpleversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolormagentaversion���nameminecraft:concretemetanbtCgAA 
+
+ blocknameminecraft:concrete 
+
+ statescolorpinkversion���nameminecraft:claymetanbtCgAA 
+
+ blocknameminecraft:clay 
+
+ statesversion���nameminecraft:hardened_claymetanbtCgAA 
+
+ blocknameminecraft:hardened_clay 
+
+ statesversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorwhiteversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorsilverversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorgrayversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorblackversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorbrownversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorredversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolororangeversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescoloryellowversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorlimeversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorgreenversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorcyanversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorblueversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorpurpleversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolormagentaversion���nameminecraft:stained_hardened_claymetanbtCgAA 
+
+ blocknameminecraft:stained_hardened_clay 
+
+ statescolorpinkversion���name!minecraft:white_glazed_terracottametanbtCgAA 
+
+ blockname!minecraft:white_glazed_terracotta 
+
+ statesfacing_directionversion���name"minecraft:silver_glazed_terracottametanbtCgAA 
+
+ blockname"minecraft:silver_glazed_terracotta 
+
+ statesfacing_directionversion���name minecraft:gray_glazed_terracottametanbtCgAA 
+
+ blockname minecraft:gray_glazed_terracotta 
+
+ statesfacing_directionversion���name!minecraft:black_glazed_terracottametanbtCgAA 
+
+ blockname!minecraft:black_glazed_terracotta 
+
+ statesfacing_directionversion���name!minecraft:brown_glazed_terracottametanbtCgAA 
+
+ blockname!minecraft:brown_glazed_terracotta 
+
+ statesfacing_directionversion���nameminecraft:red_glazed_terracottametanbtCgAA 
+
+ blocknameminecraft:red_glazed_terracotta 
+
+ statesfacing_directionversion���name"minecraft:orange_glazed_terracottametanbtCgAA 
+
+ blockname"minecraft:orange_glazed_terracotta 
+
+ statesfacing_directionversion���name"minecraft:yellow_glazed_terracottametanbtCgAA 
+
+ blockname"minecraft:yellow_glazed_terracotta 
+
+ statesfacing_directionversion���name minecraft:lime_glazed_terracottametanbtCgAA 
+
+ blockname minecraft:lime_glazed_terracotta 
+
+ statesfacing_directionversion���name!minecraft:green_glazed_terracottametanbtCgAA 
+
+ blockname!minecraft:green_glazed_terracotta 
+
+ statesfacing_directionversion���name minecraft:cyan_glazed_terracottametanbtCgAA 
+
+ blockname minecraft:cyan_glazed_terracotta 
+
+ statesfacing_directionversion���name&minecraft:light_blue_glazed_terracottametanbtCgAA 
+
+ blockname&minecraft:light_blue_glazed_terracotta 
+
+ statesfacing_directionversion���name minecraft:blue_glazed_terracottametanbtCgAA 
+
+ blockname minecraft:blue_glazed_terracotta 
+
+ statesfacing_directionversion���name"minecraft:purple_glazed_terracottametanbtCgAA 
+
+ blockname"minecraft:purple_glazed_terracotta 
+
+ statesfacing_directionversion���name#minecraft:magenta_glazed_terracottametanbtCgAA 
+
+ blockname#minecraft:magenta_glazed_terracotta 
+
+ statesfacing_directionversion���name minecraft:pink_glazed_terracottametanbtCgAA 
+
+ blockname minecraft:pink_glazed_terracotta 
+
+ statesfacing_directionversion���nameminecraft:purpur_blockmetanbtCgAA 
+
+ blocknameminecraft:purpur_block 
+
+ statespillar_axisychisel_typedefaultversion���nameminecraft:purpur_blockmetanbtCgAA 
+
+ blocknameminecraft:purpur_block 
+
+ stateschisel_typelinespillar_axisyversion���nameminecraft:nether_wart_blockmetanbtCgAA 
+
+ blocknameminecraft:nether_wart_block 
+
+ statesversion���nameminecraft:warped_wart_blockmetanbtCgAA 
+
+ blocknameminecraft:warped_wart_block 
+
+ statesversion���nameminecraft:shroomlightmetanbtCgAA 
+
+ blocknameminecraft:shroomlight 
+
+ statesversion���nameminecraft:crimson_nyliummetanbtCgAA 
+
+ blocknameminecraft:crimson_nylium 
+
+ statesversion���nameminecraft:warped_nyliummetanbtCgAA 
+
+ blocknameminecraft:warped_nylium 
+
+ statesversion���nameminecraft:basaltmetanbtCgAA 
+
+ blocknameminecraft:basalt 
+
+ statespillar_axisyversion���nameminecraft:polished_basaltmetanbtCgAA 
+
+ blocknameminecraft:polished_basalt 
+
+ statespillar_axisyversion���nameminecraft:smooth_basaltmetanbtCgAA 
+
+ blocknameminecraft:smooth_basalt 
+
+ statesversion���nameminecraft:soul_soilmetanbtCgAA 
+
+ blocknameminecraft:soul_soil 
+
+ statesversion���nameminecraft:dirtmetanbtCgAA 
+
+ blocknameminecraft:dirt 
+
+ states        dirt_typenormalversion���nameminecraft:dirtmetanbtCgAA 
+
+ blocknameminecraft:dirt 
+
+ states        dirt_typecoarseversion���nameminecraft:farmlandmetanbtCgAA 
+
+ blocknameminecraft:farmland 
+
+ statesmoisturized_amountversion���nameminecraft:grassmetanbtCgAA 
+
+ blocknameminecraft:grass 
+
+ statesversion���nameminecraft:grass_pathmetanbtCgAA 
+
+ blocknameminecraft:grass_path 
+
+ statesversion���nameminecraft:podzolmetanbtCgAA 
+
+ blocknameminecraft:podzol 
+
+ statesversion���nameminecraft:myceliummetanbtCgAA 
+
+ blocknameminecraft:mycelium 
+
+ statesversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typestoneversion���nameminecraft:iron_oremetanbtCgAA 
+
+ blocknameminecraft:iron_ore 
+
+ statesversion���nameminecraft:gold_oremetanbtCgAA 
+
+ blocknameminecraft:gold_ore 
+
+ statesversion���nameminecraft:diamond_oremetanbtCgAA 
+
+ blocknameminecraft:diamond_ore 
+
+ statesversion���nameminecraft:lapis_oremetanbtCgAA 
+
+ blocknameminecraft:lapis_ore 
+
+ statesversion���nameminecraft:redstone_oremetanbtCgAA 
+
+ blocknameminecraft:redstone_ore 
+
+ statesversion���nameminecraft:coal_oremetanbtCgAA 
+
+ blocknameminecraft:coal_ore 
+
+ statesversion���nameminecraft:copper_oremetanbtCgAA 
+
+ blocknameminecraft:copper_ore 
+
+ statesversion���nameminecraft:emerald_oremetanbtCgAA 
+
+ blocknameminecraft:emerald_ore 
+
+ statesversion���nameminecraft:quartz_oremetanbtCgAA 
+
+ blocknameminecraft:quartz_ore 
+
+ statesversion���nameminecraft:nether_gold_oremetanbtCgAA 
+
+ blocknameminecraft:nether_gold_ore 
+
+ statesversion���nameminecraft:ancient_debrismetanbtCgAA 
+
+ blocknameminecraft:ancient_debris 
+
+ statesversion���nameminecraft:deepslate_iron_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_iron_ore 
+
+ statesversion���nameminecraft:deepslate_gold_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_gold_ore 
+
+ statesversion���nameminecraft:deepslate_diamond_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_diamond_ore 
+
+ statesversion���nameminecraft:deepslate_lapis_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_lapis_ore 
+
+ statesversion���name minecraft:deepslate_redstone_oremetanbtCgAA 
+
+ blockname minecraft:deepslate_redstone_ore 
+
+ statesversion���nameminecraft:deepslate_emerald_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_emerald_ore 
+
+ statesversion���nameminecraft:deepslate_coal_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_coal_ore 
+
+ statesversion���nameminecraft:deepslate_copper_oremetanbtCgAA 
+
+ blocknameminecraft:deepslate_copper_ore 
+
+ statesversion���nameminecraft:gravelmetanbtCgAA 
+
+ blocknameminecraft:gravel 
+
+ statesversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typegraniteversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typedioriteversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typeandesiteversion���nameminecraft:blackstonemetanbtCgAA 
+
+ blocknameminecraft:blackstone 
+
+ statesversion���nameminecraft:deepslatemetanbtCgAA 
+
+ blocknameminecraft:deepslate 
+
+ statespillar_axisyversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typegranite_smoothversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typediorite_smoothversion���nameminecraft:stonemetanbtCgAA 
+
+ blocknameminecraft:stone 
+
+ states 
+
+ stone_typeandesite_smoothversion���nameminecraft:polished_blackstonemetanbtCgAA 
+
+ blocknameminecraft:polished_blackstone 
+
+ statesversion���nameminecraft:polished_deepslatemetanbtCgAA 
+
+ blocknameminecraft:polished_deepslate 
+
+ statesversion���nameminecraft:sandmetanbtCgAA 
+
+ blocknameminecraft:sand 
+
+ states        sand_typenormalversion���nameminecraft:sandmetanbtCgAA 
+
+ blocknameminecraft:sand 
+
+ states        sand_typeredversion���nameminecraft:cactusmetanbtCgAA 
+
+ blocknameminecraft:cactus 
+
+ statesageversion���name minecraft:logmetanbtCgAA 
+
+ blockname minecraft:log 
+
+ statesold_log_typeoakpillar_axisyversion���nameminecraft:stripped_oak_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_oak_log 
+
+ statespillar_axisyversion���name minecraft:logmetanbtCgAA 
+
+ blockname minecraft:log 
+
+ statesold_log_typesprucepillar_axisyversion���nameminecraft:stripped_spruce_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_spruce_log 
+
+ statespillar_axisyversion���name minecraft:logmetanbtCgAA 
+
+ blockname minecraft:log 
+
+ statespillar_axisyold_log_typebirchversion���nameminecraft:stripped_birch_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_birch_log 
+
+ statespillar_axisyversion���name minecraft:logmetanbtCgAA 
+
+ blockname minecraft:log 
+
+ statesold_log_typejunglepillar_axisyversion���nameminecraft:stripped_jungle_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_jungle_log 
+
+ statespillar_axisyversion���nameminecraft:log2metanbtCgAA 
+
+ blocknameminecraft:log2 
+
+ statespillar_axisynew_log_typeacaciaversion���nameminecraft:stripped_acacia_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_acacia_log 
+
+ statespillar_axisyversion���nameminecraft:log2metanbtCgAA 
+
+ blocknameminecraft:log2 
+
+ statesnew_log_typedark_oakpillar_axisyversion���nameminecraft:stripped_dark_oak_logmetanbtCgAA 
+
+ blocknameminecraft:stripped_dark_oak_log 
+
+ statespillar_axisyversion���nameminecraft:crimson_stemmetanbtCgAA 
+
+ blocknameminecraft:crimson_stem 
+
+ statespillar_axisyversion���nameminecraft:stripped_crimson_stemmetanbtCgAA 
+
+ blocknameminecraft:stripped_crimson_stem 
+
+ statespillar_axisyversion���nameminecraft:warped_stemmetanbtCgAA 
+
+ blocknameminecraft:warped_stem 
+
+ statespillar_axisyversion���nameminecraft:stripped_warped_stemmetanbtCgAA 
+
+ blocknameminecraft:stripped_warped_stem 
+
+ statespillar_axisyversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statesstripped_bit        wood_typeoakpillar_axisyversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typeoakpillar_axisystripped_bitversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statesstripped_bit        wood_typesprucepillar_axisyversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statespillar_axisystripped_bit        wood_typespruceversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typebirchpillar_axisystripped_bitversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typebirchpillar_axisystripped_bitversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statespillar_axisystripped_bit        wood_typejungleversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statesstripped_bit        wood_typejunglepillar_axisyversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typeacaciapillar_axisystripped_bitversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ statespillar_axisystripped_bit        wood_typeacaciaversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typedark_oakpillar_axisystripped_bitversion���nameminecraft:woodmetanbtCgAA 
+
+ blocknameminecraft:wood 
+
+ states        wood_typedark_oakpillar_axisystripped_bitversion���nameminecraft:crimson_hyphaemetanbtCgAA 
+
+ blocknameminecraft:crimson_hyphae 
+
+ statespillar_axisyversion���name!minecraft:stripped_crimson_hyphaemetanbtCgAA 
+
+ blockname!minecraft:stripped_crimson_hyphae 
+
+ statespillar_axisyversion���nameminecraft:warped_hyphaemetanbtCgAA 
+
+ blocknameminecraft:warped_hyphae 
+
+ statespillar_axisyversion���name minecraft:stripped_warped_hyphaemetanbtCgAA 
+
+ blockname minecraft:stripped_warped_hyphae 
+
+ statespillar_axisyversion���nameminecraft:leavesmetanbtCgAA 
+
+ blocknameminecraft:leaves 
+
+ states old_leaf_typeoakpersistent_bit 
+
+ update_bitversion���nameminecraft:leavesmetanbtCgAA 
+
+ blocknameminecraft:leaves 
+
+ states 
+
+ update_bit old_leaf_typesprucepersistent_bitversion���nameminecraft:leavesmetanbtCgAA 
+
+ blocknameminecraft:leaves 
+
+ states old_leaf_typebirchpersistent_bit 
+
+ update_bitversion���nameminecraft:leavesmetanbtCgAA 
+
+ blocknameminecraft:leaves 
+
+ states old_leaf_typejunglepersistent_bit 
+
+ update_bitversion���nameminecraft:leaves2metanbtCgAA 
+
+ blocknameminecraft:leaves2 
+
+ states new_leaf_typeacaciapersistent_bit 
+
+ update_bitversion���nameminecraft:leaves2metanbtCgAA 
+
+ blocknameminecraft:leaves2 
+
+ states new_leaf_typedark_oakpersistent_bit 
+
+ update_bitversion���nameminecraft:azalea_leavesmetanbtCgAA 
+
+ blocknameminecraft:azalea_leaves 
+
+ statespersistent_bit 
+
+ update_bitversion���name minecraft:azalea_leaves_floweredmetanbtCgAA 
+
+ blockname minecraft:azalea_leaves_flowered 
+
+ states 
+
+ update_bitpersistent_bitversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statesage_bitsapling_typeoakversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statesage_bitsapling_typespruceversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statesage_bitsapling_typebirchversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statessapling_typejungleage_bitversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statesage_bitsapling_typeacaciaversion���nameminecraft:saplingmetanbtCgAA 
+
+ blocknameminecraft:sapling 
+
+ statesage_bitsapling_typedark_oakversion���nameminecraft:bee_nestmetanbtCgAA 
+
+ blocknameminecraft:bee_nest 
+
+ states	directionhoney_levelversion���nameminecraft:wheat_seedsmetanbtCgAAnameminecraft:pumpkin_seedsmetanbtCgAAnameminecraft:melon_seedsmetanbtCgAAnameminecraft:beetroot_seedsmetanbtCgAAnameminecraft:wheatmetanbtCgAAnameminecraft:beetrootmetanbtCgAAnameminecraft:potatometanbtCgAAnameminecraft:poisonous_potatometanbtCgAAnameminecraft:carrotmetanbtCgAAnameminecraft:golden_carrotmetanbtCgAAnameminecraft:applemetanbtCgAAnameminecraft:golden_applemetanbtCgAAname minecraft:enchanted_golden_applemetanbtCgAAnameminecraft:melon_blockmetanbtCgAA  blocknameminecraft:melon_block 
+
+ statesversion���nameminecraft:melon_slicemetanbtCgAAname minecraft:glistering_melon_slicemetanbtCgAAnameminecraft:sweet_berriesmetanbtCgAAnameminecraft:glow_berriesmetanbtCgAAnameminecraft:pumpkinmetanbtCgAA 
+
+ blocknameminecraft:pumpkin 
+
+ states        directionversion���nameminecraft:carved_pumpkinmetanbtCgAA 
+
+ blocknameminecraft:carved_pumpkin 
+
+ states        directionversion���nameminecraft:lit_pumpkinmetanbtCgAA 
+
+ blocknameminecraft:lit_pumpkin 
+
+ states        directionversion���nameminecraft:honeycombmetanbtCgAAnameminecraft:tallgrassmetanbtCgAA 
+
+ blocknameminecraft:tallgrass 
+
+ statestall_grass_typefernversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesdouble_plant_typefernupper_block_bitversion���nameminecraft:tallgrassmetanbtCgAA 
+
+ blocknameminecraft:tallgrass 
+
+ statestall_grass_typetallversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesdouble_plant_typegrassupper_block_bitversion���nameminecraft:nether_sproutsmetanbtCgAAnameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorreddead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorpinkdead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorpurpledead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statesdead_bitcoral_colorblueversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_coloryellowdead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorreddead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorpinkdead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorpurpledead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_colorbluedead_bitversion���nameminecraft:coralmetanbtCgAA 
+
+ blocknameminecraft:coral 
+
+ statescoral_coloryellowdead_bitversion���nameminecraft:coral_fanmetanbtCgAA 
+
+ blocknameminecraft:coral_fan 
+
+ statescoral_fan_directioncoral_colorredversion���nameminecraft:coral_fanmetanbtCgAA 
+
+ blocknameminecraft:coral_fan 
+
+ statescoral_colorpinkcoral_fan_directionversion���nameminecraft:coral_fanmetanbtCgAA 
+
+ blocknameminecraft:coral_fan 
+
+ statescoral_colorpurplecoral_fan_directionversion���nameminecraft:coral_fanmetanbtCgAA 
+
+ blocknameminecraft:coral_fan 
+
+ statescoral_colorbluecoral_fan_directionversion���nameminecraft:coral_fanmetanbtCgAA 
+
+ blocknameminecraft:coral_fan 
+
+ statescoral_coloryellowcoral_fan_directionversion���nameminecraft:coral_fan_deadmetanbtCgAA 
+
+ blocknameminecraft:coral_fan_dead 
+
+ statescoral_colorredcoral_fan_directionversion���nameminecraft:coral_fan_deadmetanbtCgAA 
+
+ blocknameminecraft:coral_fan_dead 
+
+ statescoral_colorpinkcoral_fan_directionversion���nameminecraft:coral_fan_deadmetanbtCgAA 
+
+ blocknameminecraft:coral_fan_dead 
+
+ statescoral_fan_directioncoral_colorpurpleversion���nameminecraft:coral_fan_deadmetanbtCgAA 
+
+ blocknameminecraft:coral_fan_dead 
+
+ statescoral_colorbluecoral_fan_directionversion���nameminecraft:coral_fan_deadmetanbtCgAA 
+
+ blocknameminecraft:coral_fan_dead 
+
+ statescoral_coloryellowcoral_fan_directionversion���nameminecraft:kelpmetanbtCgAAnameminecraft:seagrassmetanbtCgAA 
+
+ blocknameminecraft:seagrass 
+
+ statessea_grass_typedefaultversion���nameminecraft:crimson_rootsmetanbtCgAA 
+
+ blocknameminecraft:crimson_roots 
+
+ statesversion���nameminecraft:warped_rootsmetanbtCgAA 
+
+ blocknameminecraft:warped_roots 
+
+ statesversion���nameminecraft:yellow_flowermetanbtCgAA 
+
+ blocknameminecraft:yellow_flower 
+
+ statesversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typepoppyversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typeorchidversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typealliumversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_type        houstoniaversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_type        tulip_redversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typetulip_orangeversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typetulip_whiteversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_type 
+
+ tulip_pinkversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typeoxeyeversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_type 
+
+ cornflowerversion���nameminecraft:red_flowermetanbtCgAA 
+
+ blocknameminecraft:red_flower 
+
+ statesflower_typelily_of_the_valleyversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesdouble_plant_type        sunflowerupper_block_bitversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesupper_block_bitdouble_plant_typesyringaversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesdouble_plant_typeroseupper_block_bitversion���nameminecraft:double_plantmetanbtCgAA 
+
+ blocknameminecraft:double_plant 
+
+ statesdouble_plant_typepaeoniaupper_block_bitversion���nameminecraft:wither_rosemetanbtCgAA 
+
+ blocknameminecraft:wither_rose 
+
+ statesversion���nameminecraft:white_dyemetanbtCgAAnameminecraft:light_gray_dyemetanbtCgAAnameminecraft:gray_dyemetanbtCgAAnameminecraft:black_dyemetanbtCgAAnameminecraft:brown_dyemetanbtCgAAnameminecraft:red_dyemetanbtCgAAnameminecraft:orange_dyemetanbtCgAAnameminecraft:yellow_dyemetanbtCgAAnameminecraft:lime_dyemetanbtCgAAnameminecraft:green_dyemetanbtCgAAnameminecraft:cyan_dyemetanbtCgAAnameminecraft:light_blue_dyemetanbtCgAAnameminecraft:blue_dyemetanbtCgAAnameminecraft:purple_dyemetanbtCgAAnameminecraft:magenta_dyemetanbtCgAAnameminecraft:pink_dyemetanbtCgAAnameminecraft:ink_sacmetanbtCgAAnameminecraft:glow_ink_sacmetanbtCgAAnameminecraft:cocoa_beansmetanbtCgAAnameminecraft:lapis_lazulimetanbtCgAAnameminecraft:bone_mealmetanbtCgAAnameminecraft:vinemetanbtCgAA 
+
+ blocknameminecraft:vine 
+
+ statesvine_direction_bitsversion���nameminecraft:weeping_vinesmetanbtCgAA 
+
+ blocknameminecraft:weeping_vines 
+
+ statesweeping_vines_ageversion���nameminecraft:twisting_vinesmetanbtCgAA 
+
+ blocknameminecraft:twisting_vines 
+
+ statestwisting_vines_ageversion���nameminecraft:waterlilymetanbtCgAA 
+
+ blocknameminecraft:waterlily 
+
+ statesversion���nameminecraft:deadbushmetanbtCgAA 
+
+ blocknameminecraft:deadbush 
+
+ statesversion���nameminecraft:bamboometanbtCgAA 
+
+ blocknameminecraft:bamboo 
+
+ statesage_bitbamboo_leaf_size        no_leavesbamboo_stalk_thicknessthinversion���nameminecraft:snowmetanbtCgAA 
+
+ blocknameminecraft:snow 
+
+ statesversion���name minecraft:icemetanbtCgAA 
+
+ blockname minecraft:ice 
+
+ statesversion���nameminecraft:packed_icemetanbtCgAA 
+
+ blocknameminecraft:packed_ice 
+
+ statesversion���nameminecraft:blue_icemetanbtCgAA 
+
+ blocknameminecraft:blue_ice 
+
+ statesversion���nameminecraft:snow_layermetanbtCgAA 
+
+ blocknameminecraft:snow_layer 
+
+ statesheightcovered_bitversion���nameminecraft:pointed_dripstonemetanbtCgAA 
+
+ blocknameminecraft:pointed_dripstone 
+
+ statesdripstone_thicknesstiphangingversion���nameminecraft:dripstone_blockmetanbtCgAA 
+
+ blocknameminecraft:dripstone_block 
+
+ statesversion���nameminecraft:moss_carpetmetanbtCgAA 
+
+ blocknameminecraft:moss_carpet 
+
+ statesversion���nameminecraft:moss_blockmetanbtCgAA 
+
+ blocknameminecraft:moss_block 
+
+ statesversion���nameminecraft:dirt_with_rootsmetanbtCgAA 
+
+ blocknameminecraft:dirt_with_roots 
+
+ statesversion���nameminecraft:hanging_rootsmetanbtCgAA 
+
+ blocknameminecraft:hanging_roots 
+
+ statesversion���nameminecraft:big_dripleafmetanbtCgAA 
+
+ blocknameminecraft:big_dripleaf 
+
+ states        directionbig_dripleaf_headbig_dripleaf_tiltnoneversion���nameminecraft:small_dripleaf_blockmetanbtCgAA 
+
+ blocknameminecraft:small_dripleaf_block 
+
+ states        directionupper_block_bitversion���nameminecraft:spore_blossommetanbtCgAA 
+
+ blocknameminecraft:spore_blossom 
+
+ statesversion���nameminecraft:azaleametanbtCgAA 
+
+ blocknameminecraft:azalea 
+
+ statesversion���nameminecraft:flowering_azaleametanbtCgAA 
+
+ blocknameminecraft:flowering_azalea 
+
+ statesversion���nameminecraft:glow_lichenmetanbtCgAA 
+
+ blocknameminecraft:glow_lichen 
+
+ statesmulti_face_direction_bits~version���nameminecraft:amethyst_blockmetanbtCgAA 
+
+ blocknameminecraft:amethyst_block 
+
+ statesversion���nameminecraft:budding_amethystmetanbtCgAA 
+
+ blocknameminecraft:budding_amethyst 
+
+ statesversion���nameminecraft:amethyst_clustermetanbtCgAA 
+
+ blocknameminecraft:amethyst_cluster 
+
+ statesfacing_directionversion���nameminecraft:large_amethyst_budmetanbtCgAA 
+
+ blocknameminecraft:large_amethyst_bud 
+
+ statesfacing_directionversion���nameminecraft:medium_amethyst_budmetanbtCgAA 
+
+ blocknameminecraft:medium_amethyst_bud 
+
+ statesfacing_directionversion���nameminecraft:small_amethyst_budmetanbtCgAA 
+
+ blocknameminecraft:small_amethyst_bud 
+
+ statesfacing_directionversion���nameminecraft:tuffmetanbtCgAA 
+
+ blocknameminecraft:tuff 
+
+ statesversion���nameminecraft:calcitemetanbtCgAA 
+
+ blocknameminecraft:calcite 
+
+ statesversion���nameminecraft:chickenmetanbtCgAAnameminecraft:porkchopmetanbtCgAAnameminecraft:beefmetanbtCgAAnameminecraft:muttonmetanbtCgAAnameminecraft:rabbitmetanbtCgAAname minecraft:codmetanbtCgAAnameminecraft:salmonmetanbtCgAAnameminecraft:tropical_fishmetanbtCgAAnameminecraft:pufferfishmetanbtCgAAnameminecraft:brown_mushroommetanbtCgAA 
+
+ blocknameminecraft:brown_mushroom 
+
+ statesversion���nameminecraft:red_mushroommetanbtCgAA 
+
+ blocknameminecraft:red_mushroom 
+
+ statesversion���nameminecraft:crimson_fungusmetanbtCgAA 
+
+ blocknameminecraft:crimson_fungus 
+
+ statesversion���nameminecraft:warped_fungusmetanbtCgAA 
+
+ blocknameminecraft:warped_fungus 
+
+ statesversion���nameminecraft:brown_mushroom_blockmetanbtCgAA 
+
+ blocknameminecraft:brown_mushroom_block 
+
+ stateshuge_mushroom_bitsversion���nameminecraft:red_mushroom_blockmetanbtCgAA 
+
+ blocknameminecraft:red_mushroom_block 
+
+ stateshuge_mushroom_bitsversion���nameminecraft:brown_mushroom_blockmetanbtCgAA 
+
+ blocknameminecraft:brown_mushroom_block 
+
+ stateshuge_mushroom_bitsversion���nameminecraft:brown_mushroom_blockmetanbtCgAA 
+
+ blocknameminecraft:brown_mushroom_block 
+
+ stateshuge_mushroom_bitsversion���name minecraft:eggmetanbtCgAAnameminecraft:sugar_canemetanbtCgAAnameminecraft:sugarmetanbtCgAAnameminecraft:rotten_fleshmetanbtCgAAnameminecraft:bonemetanbtCgAAname minecraft:webmetanbtCgAA 
+
+ blockname minecraft:web 
+
+ statesversion���nameminecraft:spider_eyemetanbtCgAAnameminecraft:mob_spawnermetanbtCgAA 
+
+ blocknameminecraft:mob_spawner 
+
+ statesversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typestoneversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typecobblestoneversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typestone_brickversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typemossy_stone_brickversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typecracked_stone_brickversion���nameminecraft:monster_eggmetanbtCgAA 
+
+ blocknameminecraft:monster_egg 
+
+ statesmonster_egg_stone_typechiseled_stone_brickversion���nameminecraft:infested_deepslatemetanbtCgAA 
+
+ blocknameminecraft:infested_deepslate 
+
+ statespillar_axisyversion���nameminecraft:dragon_eggmetanbtCgAA 
+
+ blocknameminecraft:dragon_egg 
+
+ statesversion���nameminecraft:turtle_eggmetanbtCgAA 
+
+ blocknameminecraft:turtle_egg 
+
+ states cracked_state	no_cracksturtle_egg_countone_eggversion���nameminecraft:chicken_spawn_eggmetanbtCgAAnameminecraft:bee_spawn_eggmetanbtCgAAnameminecraft:cow_spawn_eggmetanbtCgAAnameminecraft:pig_spawn_eggmetanbtCgAAnameminecraft:sheep_spawn_eggmetanbtCgAAnameminecraft:wolf_spawn_eggmetanbtCgAAnameminecraft:polar_bear_spawn_eggmetanbtCgAAnameminecraft:ocelot_spawn_eggmetanbtCgAAnameminecraft:cat_spawn_eggmetanbtCgAAnameminecraft:mooshroom_spawn_eggmetanbtCgAAnameminecraft:bat_spawn_eggmetanbtCgAAnameminecraft:parrot_spawn_eggmetanbtCgAAnameminecraft:rabbit_spawn_eggmetanbtCgAAnameminecraft:llama_spawn_eggmetanbtCgAAnameminecraft:horse_spawn_eggmetanbtCgAAnameminecraft:donkey_spawn_eggmetanbtCgAAnameminecraft:mule_spawn_eggmetanbtCgAAname"minecraft:skeleton_horse_spawn_eggmetanbtCgAAname minecraft:zombie_horse_spawn_eggmetanbtCgAAname!minecraft:tropical_fish_spawn_eggmetanbtCgAAnameminecraft:cod_spawn_eggmetanbtCgAAnameminecraft:pufferfish_spawn_eggmetanbtCgAAnameminecraft:salmon_spawn_eggmetanbtCgAAnameminecraft:dolphin_spawn_eggmetanbtCgAAnameminecraft:turtle_spawn_eggmetanbtCgAAnameminecraft:panda_spawn_eggmetanbtCgAAnameminecraft:fox_spawn_eggmetanbtCgAAnameminecraft:creeper_spawn_eggmetanbtCgAAnameminecraft:enderman_spawn_eggmetanbtCgAAnameminecraft:silverfish_spawn_eggmetanbtCgAAnameminecraft:skeleton_spawn_eggmetanbtCgAAname#minecraft:wither_skeleton_spawn_eggmetanbtCgAAnameminecraft:stray_spawn_eggmetanbtCgAAnameminecraft:slime_spawn_eggmetanbtCgAAnameminecraft:spider_spawn_eggmetanbtCgAAnameminecraft:zombie_spawn_eggmetanbtCgAAname!minecraft:zombie_pigman_spawn_eggmetanbtCgAAnameminecraft:husk_spawn_eggmetanbtCgAAnameminecraft:drowned_spawn_eggmetanbtCgAAnameminecraft:squid_spawn_eggmetanbtCgAAnameminecraft:glow_squid_spawn_eggmetanbtCgAAnameminecraft:cave_spider_spawn_eggmetanbtCgAAnameminecraft:witch_spawn_eggmetanbtCgAAnameminecraft:guardian_spawn_eggmetanbtCgAAname"minecraft:elder_guardian_spawn_eggmetanbtCgAAnameminecraft:endermite_spawn_eggmetanbtCgAAnameminecraft:magma_cube_spawn_eggmetanbtCgAAnameminecraft:strider_spawn_eggmetanbtCgAAnameminecraft:hoglin_spawn_eggmetanbtCgAAnameminecraft:piglin_spawn_eggmetanbtCgAAnameminecraft:zoglin_spawn_eggmetanbtCgAAname minecraft:piglin_brute_spawn_eggmetanbtCgAAnameminecraft:goat_spawn_eggmetanbtCgAAnameminecraft:axolotl_spawn_eggmetanbtCgAAnameminecraft:ghast_spawn_eggmetanbtCgAAnameminecraft:blaze_spawn_eggmetanbtCgAAnameminecraft:shulker_spawn_eggmetanbtCgAAnameminecraft:vindicator_spawn_eggmetanbtCgAAnameminecraft:evoker_spawn_eggmetanbtCgAAnameminecraft:vex_spawn_eggmetanbtCgAAnameminecraft:villager_spawn_eggmetanbtCgAAname$minecraft:wandering_trader_spawn_eggmetanbtCgAAname#minecraft:zombie_villager_spawn_eggmetanbtCgAAnameminecraft:phantom_spawn_eggmetanbtCgAAnameminecraft:pillager_spawn_eggmetanbtCgAAnameminecraft:ravager_spawn_eggmetanbtCgAAnameminecraft:obsidianmetanbtCgAA 
+
+ blocknameminecraft:obsidian 
+
+ statesversion���nameminecraft:crying_obsidianmetanbtCgAA 
+
+ blocknameminecraft:crying_obsidian 
+
+ statesversion���nameminecraft:bedrockmetanbtCgAA 
+
+ blocknameminecraft:bedrock 
+
+ statesinfiniburn_bitversion���nameminecraft:soul_sandmetanbtCgAA 
+
+ blocknameminecraft:soul_sand 
+
+ statesversion���nameminecraft:netherrackmetanbtCgAA 
+
+ blocknameminecraft:netherrack 
+
+ statesversion���nameminecraft:magmametanbtCgAA 
+
+ blocknameminecraft:magma 
+
+ statesversion���nameminecraft:nether_wartmetanbtCgAAnameminecraft:end_stonemetanbtCgAA 
+
+ blocknameminecraft:end_stone 
+
+ statesversion���nameminecraft:chorus_flowermetanbtCgAA 
+
+ blocknameminecraft:chorus_flower 
+
+ statesageversion���nameminecraft:chorus_plantmetanbtCgAA 
+
+ blocknameminecraft:chorus_plant 
+
+ statesversion���nameminecraft:chorus_fruitmetanbtCgAAnameminecraft:popped_chorus_fruitmetanbtCgAAnameminecraft:spongemetanbtCgAA 
+
+ blocknameminecraft:sponge 
+
+ statessponge_typedryversion���nameminecraft:spongemetanbtCgAA 
+
+ blocknameminecraft:sponge 
+
+ statessponge_typewetversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorbluedead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorpinkdead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorpurpledead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorreddead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_coloryellowdead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorbluedead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorpinkdead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorpurpledead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_colorreddead_bitversion���nameminecraft:coral_blockmetanbtCgAA 
+
+ blocknameminecraft:coral_block 
+
+ statescoral_coloryellowdead_bitversion���nameminecraft:leather_helmetmetanbtCgAAnameminecraft:chainmail_helmetmetanbtCgAAnameminecraft:iron_helmetmetanbtCgAAnameminecraft:golden_helmetmetanbtCgAAnameminecraft:diamond_helmetmetanbtCgAAnameminecraft:netherite_helmetmetanbtCgAAnameminecraft:leather_chestplatemetanbtCgAAnameminecraft:chainmail_chestplatemetanbtCgAAnameminecraft:iron_chestplatemetanbtCgAAnameminecraft:golden_chestplatemetanbtCgAAnameminecraft:diamond_chestplatemetanbtCgAAnameminecraft:netherite_chestplatemetanbtCgAAnameminecraft:leather_leggingsmetanbtCgAAnameminecraft:chainmail_leggingsmetanbtCgAAnameminecraft:iron_leggingsmetanbtCgAAnameminecraft:golden_leggingsmetanbtCgAAnameminecraft:diamond_leggingsmetanbtCgAAnameminecraft:netherite_leggingsmetanbtCgAAnameminecraft:leather_bootsmetanbtCgAAnameminecraft:chainmail_bootsmetanbtCgAAnameminecraft:iron_bootsmetanbtCgAAnameminecraft:golden_bootsmetanbtCgAAnameminecraft:diamond_bootsmetanbtCgAAnameminecraft:netherite_bootsmetanbtCgAAnameminecraft:wooden_swordmetanbtCgAAnameminecraft:stone_swordmetanbtCgAAnameminecraft:iron_swordmetanbtCgAAnameminecraft:golden_swordmetanbtCgAAnameminecraft:diamond_swordmetanbtCgAAnameminecraft:netherite_swordmetanbtCgAAnameminecraft:wooden_axemetanbtCgAAnameminecraft:stone_axemetanbtCgAAnameminecraft:iron_axemetanbtCgAAnameminecraft:golden_axemetanbtCgAAnameminecraft:diamond_axemetanbtCgAAnameminecraft:netherite_axemetanbtCgAAnameminecraft:wooden_pickaxemetanbtCgAAnameminecraft:stone_pickaxemetanbtCgAAnameminecraft:iron_pickaxemetanbtCgAAnameminecraft:golden_pickaxemetanbtCgAAnameminecraft:diamond_pickaxemetanbtCgAAnameminecraft:netherite_pickaxemetanbtCgAAnameminecraft:wooden_shovelmetanbtCgAAnameminecraft:stone_shovelmetanbtCgAAnameminecraft:iron_shovelmetanbtCgAAnameminecraft:golden_shovelmetanbtCgAAnameminecraft:diamond_shovelmetanbtCgAAnameminecraft:netherite_shovelmetanbtCgAAnameminecraft:wooden_hoemetanbtCgAAnameminecraft:stone_hoemetanbtCgAAnameminecraft:iron_hoemetanbtCgAAnameminecraft:golden_hoemetanbtCgAAnameminecraft:diamond_hoemetanbtCgAAnameminecraft:netherite_hoemetanbtCgAAname minecraft:bowmetanbtCgAAnameminecraft:crossbowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmeta	nbtCgAAnameminecraft:arrowmeta 
+
+ nbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmeta nbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmetanbtCgAAnameminecraft:arrowmeta nbtCgAAnameminecraft:arrowmeta!nbtCgAAnameminecraft:arrowmeta"nbtCgAAnameminecraft:arrowmeta#nbtCgAAnameminecraft:arrowmeta$nbtCgAAnameminecraft:arrowmeta%nbtCgAAnameminecraft:arrowmeta&nbtCgAAnameminecraft:arrowmeta'nbtCgAAnameminecraft:arrowmeta(nbtCgAAnameminecraft:arrowmeta)nbtCgAAnameminecraft:arrowmeta*nbtCgAAnameminecraft:arrowmeta+nbtCgAAnameminecraft:shieldmetanbtCgAAnameminecraft:cooked_chickenmetanbtCgAAnameminecraft:cooked_porkchopmetanbtCgAAnameminecraft:cooked_beefmetanbtCgAAnameminecraft:cooked_muttonmetanbtCgAAnameminecraft:cooked_rabbitmetanbtCgAAnameminecraft:cooked_codmetanbtCgAAnameminecraft:cooked_salmonmetanbtCgAAnameminecraft:breadmetanbtCgAAnameminecraft:mushroom_stewmetanbtCgAAnameminecraft:beetroot_soupmetanbtCgAAnameminecraft:rabbit_stewmetanbtCgAAnameminecraft:baked_potatometanbtCgAAnameminecraft:cookiemetanbtCgAAnameminecraft:pumpkin_piemetanbtCgAAnameminecraft:cakemetanbtCgAAnameminecraft:dried_kelpmetanbtCgAAnameminecraft:fishing_rodmetanbtCgAAnameminecraft:carrot_on_a_stickmetanbtCgAAname"minecraft:warped_fungus_on_a_stickmetanbtCgAAnameminecraft:snowballmetanbtCgAAnameminecraft:shearsmetanbtCgAAnameminecraft:flint_and_steelmetanbtCgAAnameminecraft:leadmetanbtCgAAnameminecraft:clockmetanbtCgAAnameminecraft:compassmetanbtCgAAnameminecraft:empty_mapmetanbtCgAAnameminecraft:empty_mapmetanbtCgAAnameminecraft:saddlemetanbtCgAAnamemetanbtCgAAnameminecraft:leather_horse_armormetanbtCgAAnameminecraft:iron_horse_armormetanbtCgAAnameminecraft:golden_horse_armormetanbtCgAAnameminecraft:diamond_horse_armormetanbtCgAAnameminecraft:tridentmetanbtCgAAnameminecraft:turtle_helmetmetanbtCgAAnameminecraft:elytrametanbtCgAAnameminecraft:totem_of_undyingmetanbtCgAAnameminecraft:glass_bottlemetanbtCgAAnameminecraft:experience_bottlemetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmeta	nbtCgAAnameminecraft:potionmeta 
+
+ nbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmeta nbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmetanbtCgAAnameminecraft:potionmeta nbtCgAAnameminecraft:potionmeta!nbtCgAAnameminecraft:potionmeta"nbtCgAAnameminecraft:potionmeta#nbtCgAAnameminecraft:potionmeta$nbtCgAAnameminecraft:potionmeta%nbtCgAAnameminecraft:potionmeta&nbtCgAAnameminecraft:potionmeta'nbtCgAAnameminecraft:potionmeta(nbtCgAAnameminecraft:potionmeta)nbtCgAAnameminecraft:potionmeta*nbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmeta	nbtCgAAnameminecraft:splash_potionmeta 
+
+ nbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmeta nbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmetanbtCgAAnameminecraft:splash_potionmeta nbtCgAAnameminecraft:splash_potionmeta!nbtCgAAnameminecraft:splash_potionmeta"nbtCgAAnameminecraft:splash_potionmeta#nbtCgAAnameminecraft:splash_potionmeta$nbtCgAAnameminecraft:splash_potionmeta%nbtCgAAnameminecraft:splash_potionmeta&nbtCgAAnameminecraft:splash_potionmeta'nbtCgAAnameminecraft:splash_potionmeta(nbtCgAAnameminecraft:splash_potionmeta)nbtCgAAnameminecraft:splash_potionmeta*nbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmeta	nbtCgAAnameminecraft:lingering_potionmeta 
+
+ nbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmeta nbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmetanbtCgAAnameminecraft:lingering_potionmeta nbtCgAAnameminecraft:lingering_potionmeta!nbtCgAAnameminecraft:lingering_potionmeta"nbtCgAAnameminecraft:lingering_potionmeta#nbtCgAAnameminecraft:lingering_potionmeta$nbtCgAAnameminecraft:lingering_potionmeta%nbtCgAAnameminecraft:lingering_potionmeta&nbtCgAAnameminecraft:lingering_potionmeta'nbtCgAAnameminecraft:lingering_potionmeta(nbtCgAAnameminecraft:lingering_potionmeta)nbtCgAAnameminecraft:lingering_potionmeta*nbtCgAAnameminecraft:spyglassmetanbtCgAAnameminecraft:stickmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmeta nbtCgAAname minecraft:bedmeta	nbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmeta 
+
+ nbtCgAAname minecraft:bedmetanbtCgAAname minecraft:bedmetanbtCgAAnameminecraft:torchmetanbtCgAA 
+
+ blocknameminecraft:torch 
+
+ statestorch_facing_directiontopversion���nameminecraft:soul_torchmetanbtCgAA 
+
+ blocknameminecraft:soul_torch 
+
+ statestorch_facing_directiontopversion���nameminecraft:sea_picklemetanbtCgAA 
+
+ blocknameminecraft:sea_pickle 
+
+ states cluster_countdead_bitversion���nameminecraft:lanternmetanbtCgAA 
+
+ blocknameminecraft:lantern 
+
+ stateshangingversion���nameminecraft:soul_lanternmetanbtCgAA 
+
+ blocknameminecraft:soul_lantern 
+
+ stateshangingversion���nameminecraft:candlemetanbtCgAA 
+
+ blocknameminecraft:candle 
+
+ statescandleslitversion���nameminecraft:white_candlemetanbtCgAA 
+
+ blocknameminecraft:white_candle 
+
+ stateslitcandlesversion���nameminecraft:orange_candlemetanbtCgAA 
+
+ blocknameminecraft:orange_candle 
+
+ statescandleslitversion���nameminecraft:magenta_candlemetanbtCgAA 
+
+ blocknameminecraft:magenta_candle 
+
+ stateslitcandlesversion���nameminecraft:light_blue_candlemetanbtCgAA 
+
+ blocknameminecraft:light_blue_candle 
+
+ statescandleslitversion���nameminecraft:yellow_candlemetanbtCgAA 
+
+ blocknameminecraft:yellow_candle 
+
+ stateslitcandlesversion���nameminecraft:lime_candlemetanbtCgAA 
+
+ blocknameminecraft:lime_candle 
+
+ statescandleslitversion���nameminecraft:pink_candlemetanbtCgAA 
+
+ blocknameminecraft:pink_candle 
+
+ stateslitcandlesversion���nameminecraft:gray_candlemetanbtCgAA 
+
+ blocknameminecraft:gray_candle 
+
+ statescandleslitversion���nameminecraft:light_gray_candlemetanbtCgAA 
+
+ blocknameminecraft:light_gray_candle 
+
+ statescandleslitversion���nameminecraft:cyan_candlemetanbtCgAA 
+
+ blocknameminecraft:cyan_candle 
+
+ statescandleslitversion���nameminecraft:purple_candlemetanbtCgAA 
+
+ blocknameminecraft:purple_candle 
+
+ statescandleslitversion���nameminecraft:blue_candlemetanbtCgAA 
+
+ blocknameminecraft:blue_candle 
+
+ statescandleslitversion���nameminecraft:brown_candlemetanbtCgAA 
+
+ blocknameminecraft:brown_candle 
+
+ statescandleslitversion���nameminecraft:green_candlemetanbtCgAA 
+
+ blocknameminecraft:green_candle 
+
+ statescandleslitversion���nameminecraft:red_candlemetanbtCgAA 
+
+ blocknameminecraft:red_candle 
+
+ statescandleslitversion���nameminecraft:black_candlemetanbtCgAA 
+
+ blocknameminecraft:black_candle 
+
+ statescandleslitversion���nameminecraft:crafting_tablemetanbtCgAA 
+
+ blocknameminecraft:crafting_table 
+
+ statesversion���nameminecraft:cartography_tablemetanbtCgAA 
+
+ blocknameminecraft:cartography_table 
+
+ statesversion���nameminecraft:fletching_tablemetanbtCgAA 
+
+ blocknameminecraft:fletching_table 
+
+ statesversion���nameminecraft:smithing_tablemetanbtCgAA 
+
+ blocknameminecraft:smithing_table 
+
+ statesversion���nameminecraft:beehivemetanbtCgAA 
+
+ blocknameminecraft:beehive 
+
+ states	directionhoney_levelversion���nameminecraft:campfiremetanbtCgAAnameminecraft:soul_campfiremetanbtCgAAnameminecraft:furnacemetanbtCgAA 
+
+ blocknameminecraft:furnace 
+
+ statesfacing_directionversion���nameminecraft:blast_furnacemetanbtCgAA 
+
+ blocknameminecraft:blast_furnace 
+
+ statesfacing_directionversion���nameminecraft:smokermetanbtCgAA 
+
+ blocknameminecraft:smoker 
+
+ statesfacing_directionversion���nameminecraft:respawn_anchormetanbtCgAA 
+
+ blocknameminecraft:respawn_anchor 
+
+ statesrespawn_anchor_chargeversion���nameminecraft:brewing_standmetanbtCgAAnameminecraft:anvilmetanbtCgAA 
+
+ blocknameminecraft:anvil 
+
+ statesdamage        undamaged        directionversion���nameminecraft:anvilmetanbtCgAA 
+
+ blocknameminecraft:anvil 
+
+ statesdamageslightly_damaged        directionversion���nameminecraft:anvilmetanbtCgAA 
+
+ blocknameminecraft:anvil 
+
+ states        directiondamagevery_damagedversion���nameminecraft:grindstonemetanbtCgAA 
+
+ blocknameminecraft:grindstone 
+
+ states 
+
+ attachmentstanding        directionversion���nameminecraft:enchanting_tablemetanbtCgAA 
+
+ blocknameminecraft:enchanting_table 
+
+ statesversion���nameminecraft:bookshelfmetanbtCgAA 
+
+ blocknameminecraft:bookshelf 
+
+ statesversion���nameminecraft:lecternmetanbtCgAA 
+
+ blocknameminecraft:lectern 
+
+ states	directionpowered_bitversion���nameminecraft:cauldronmetanbtCgAAnameminecraft:compostermetanbtCgAA 
+
+ blocknameminecraft:composter 
+
+ statescomposter_fill_levelversion���nameminecraft:chestmetanbtCgAA 
+
+ blocknameminecraft:chest 
+
+ statesfacing_directionversion���nameminecraft:trapped_chestmetanbtCgAA 
+
+ blocknameminecraft:trapped_chest 
+
+ statesfacing_directionversion���nameminecraft:ender_chestmetanbtCgAA 
+
+ blocknameminecraft:ender_chest 
+
+ statesfacing_directionversion���nameminecraft:barrelmetanbtCgAA 
+
+ blocknameminecraft:barrel 
+
+ statesfacing_directionopen_bitversion���nameminecraft:undyed_shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:undyed_shulker_box 
+
+ statesversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorwhiteversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorsilverversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorgrayversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorblackversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorbrownversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorredversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolororangeversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescoloryellowversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorlimeversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorgreenversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorcyanversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolor 
+
+ light_blueversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorblueversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorpurpleversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolormagentaversion���nameminecraft:shulker_boxmetanbtCgAA 
+
+ blocknameminecraft:shulker_box 
+
+ statescolorpinkversion���nameminecraft:armor_standmetanbtCgAAnameminecraft:noteblockmetanbtCgAA 
+
+ blocknameminecraft:noteblock 
+
+ statesversion���nameminecraft:jukeboxmetanbtCgAA 
+
+ blocknameminecraft:jukebox 
+
+ statesversion���nameminecraft:music_disc_13metanbtCgAAnameminecraft:music_disc_catmetanbtCgAAnameminecraft:music_disc_blocksmetanbtCgAAnameminecraft:music_disc_chirpmetanbtCgAAnameminecraft:music_disc_farmetanbtCgAAnameminecraft:music_disc_mallmetanbtCgAAnameminecraft:music_disc_mellohimetanbtCgAAnameminecraft:music_disc_stalmetanbtCgAAnameminecraft:music_disc_stradmetanbtCgAAnameminecraft:music_disc_wardmetanbtCgAAnameminecraft:music_disc_11metanbtCgAAnameminecraft:music_disc_waitmetanbtCgAAnameminecraft:music_disc_othersidemetanbtCgAAnameminecraft:music_disc_pigstepmetanbtCgAAnameminecraft:glowstone_dustmetanbtCgAAnameminecraft:glowstonemetanbtCgAA 
+
+ blocknameminecraft:glowstone 
+
+ statesversion���nameminecraft:redstone_lampmetanbtCgAA 
+
+ blocknameminecraft:redstone_lamp 
+
+ statesversion���nameminecraft:sealanternmetanbtCgAA 
+
+ blocknameminecraft:seaLantern 
+
+ statesversion���nameminecraft:oak_signmetanbtCgAAnameminecraft:spruce_signmetanbtCgAAnameminecraft:birch_signmetanbtCgAAnameminecraft:jungle_signmetanbtCgAAnameminecraft:acacia_signmetanbtCgAAnameminecraft:dark_oak_signmetanbtCgAAnameminecraft:crimson_signmetanbtCgAAnameminecraft:warped_signmetanbtCgAAnameminecraft:paintingmetanbtCgAAnameminecraft:framemetanbtCgAAnameminecraft:glow_framemetanbtCgAAnameminecraft:honey_bottlemetanbtCgAAnameminecraft:flower_potmetanbtCgAAnameminecraft:bowlmetanbtCgAAnameminecraft:bucketmetanbtCgAAnameminecraft:milk_bucketmetanbtCgAAnameminecraft:water_bucketmetanbtCgAAnameminecraft:lava_bucketmetanbtCgAAnameminecraft:cod_bucketmetanbtCgAAnameminecraft:salmon_bucketmetanbtCgAAnameminecraft:tropical_fish_bucketmetanbtCgAAnameminecraft:pufferfish_bucketmetanbtCgAAnameminecraft:powder_snow_bucketmetanbtCgAAnameminecraft:axolotl_bucketmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:skullmetanbtCgAAnameminecraft:beaconmetanbtCgAA 
+
+ blocknameminecraft:beacon 
+
+ statesversion���nameminecraft:bellmetanbtCgAA 
+
+ blocknameminecraft:bell 
+
+ states 
+
+ toggle_bit 
+
+ attachmentstanding        directionversion���nameminecraft:conduitmetanbtCgAA 
+
+ blocknameminecraft:conduit 
+
+ statesversion���nameminecraft:stonecutter_blockmetanbtCgAA 
+
+ blocknameminecraft:stonecutter_block 
+
+ statesfacing_directionversion���nameminecraft:end_portal_framemetanbtCgAA 
+
+ blocknameminecraft:end_portal_frame 
+
+ states	directionend_portal_eye_bitversion���nameminecraft:coalmetanbtCgAAnameminecraft:charcoalmetanbtCgAAnameminecraft:diamondmetanbtCgAAnameminecraft:iron_nuggetmetanbtCgAAnameminecraft:raw_ironmetanbtCgAAnameminecraft:raw_goldmetanbtCgAAnameminecraft:raw_coppermetanbtCgAAnameminecraft:copper_ingotmetanbtCgAAnameminecraft:iron_ingotmetanbtCgAAnameminecraft:netherite_scrapmetanbtCgAAnameminecraft:netherite_ingotmetanbtCgAAnameminecraft:gold_nuggetmetanbtCgAAnameminecraft:gold_ingotmetanbtCgAAnameminecraft:emeraldmetanbtCgAAnameminecraft:quartzmetanbtCgAAnameminecraft:clay_ballmetanbtCgAAnameminecraft:brickmetanbtCgAAnameminecraft:netherbrickmetanbtCgAAnameminecraft:prismarine_shardmetanbtCgAAnameminecraft:amethyst_shardmetanbtCgAAnameminecraft:prismarine_crystalsmetanbtCgAAnameminecraft:nautilus_shellmetanbtCgAAnameminecraft:heart_of_the_seametanbtCgAAnameminecraft:scutemetanbtCgAAnameminecraft:phantom_membranemetanbtCgAAnameminecraft:stringmetanbtCgAAnameminecraft:feathermetanbtCgAAnameminecraft:flintmetanbtCgAAnameminecraft:gunpowdermetanbtCgAAnameminecraft:leathermetanbtCgAAnameminecraft:rabbit_hidemetanbtCgAAnameminecraft:rabbit_footmetanbtCgAAnameminecraft:fire_chargemetanbtCgAAnameminecraft:blaze_rodmetanbtCgAAnameminecraft:blaze_powdermetanbtCgAAnameminecraft:magma_creammetanbtCgAAnameminecraft:fermented_spider_eyemetanbtCgAAnameminecraft:dragon_breathmetanbtCgAAnameminecraft:shulker_shellmetanbtCgAAnameminecraft:ghast_tearmetanbtCgAAnameminecraft:slime_ballmetanbtCgAAnameminecraft:ender_pearlmetanbtCgAAnameminecraft:ender_eyemetanbtCgAAnameminecraft:nether_starmetanbtCgAAnameminecraft:end_rodmetanbtCgAA 
+
+ blocknameminecraft:end_rod 
+
+ statesfacing_directionversion���nameminecraft:lightning_rodmetanbtCgAA 
+
+ blocknameminecraft:lightning_rod 
+
+ statesfacing_directionversion���nameminecraft:end_crystalmetanbtCgAAnameminecraft:papermetanbtCgAAnameminecraft:bookmetanbtCgAAnameminecraft:writable_bookmetanbtCgAAnameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQAAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQAAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQAAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQAAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQBAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQBAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQBAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQBAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQCAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQCAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQCAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQCAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQDAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQDAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQDAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQDAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQEAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQEAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQEAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQEAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQFAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQFAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQFAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQGAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQGAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQGAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAQACAmlkBwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQHAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQHAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQIAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQJAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQJAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQJAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQJAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQJAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQKAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQKAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQKAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsBAACAmlkCgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQKAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQLAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQLAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQLAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQLAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQLAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQMAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAgACAmlkDAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQNAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQNAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQOAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQOAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQOAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQPAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQPAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAwACAmlkDwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQPAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQPAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQQAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQRAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQRAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQRAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQSAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQSAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAwACAmlkEgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAQACAmlkEwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQTAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQTAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQTAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQTAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQUAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQUAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQVAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQWAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQXAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQXAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQXAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQYAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQYAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQYAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQZAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQZAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQaAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQbAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQcAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQdAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQdAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQdAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQdAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQdAAIDbHZsBQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgIDbHZsAQACAmlkHgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQeAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQeAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQfAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQfAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQfAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQgAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQhAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQiAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQiAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQiAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQiAAIDbHZsBAAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQjAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQjAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQjAAIDbHZsAwAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQkAAIDbHZsAQAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQkAAIDbHZsAgAAAA==nameminecraft:enchanted_bookmetanbt$CgAJBGVuY2gKAgICaWQkAAIDbHZsAwAAAA==nameminecraft:oak_boatmetanbtCgAAnameminecraft:spruce_boatmetanbtCgAAnameminecraft:birch_boatmetanbtCgAAnameminecraft:jungle_boatmetanbtCgAAnameminecraft:acacia_boatmetanbtCgAAnameminecraft:dark_oak_boatmetanbtCgAAnameminecraft:railmetanbtCgAA 
+
+ blocknameminecraft:rail 
+
+ statesrail_directionversion���nameminecraft:golden_railmetanbtCgAA 
+
+ blocknameminecraft:golden_rail 
+
+ states rail_data_bitrail_directionversion���nameminecraft:detector_railmetanbtCgAA 
+
+ blocknameminecraft:detector_rail 
+
+ states rail_data_bitrail_directionversion���nameminecraft:activator_railmetanbtCgAA 
+
+ blocknameminecraft:activator_rail 
+
+ states rail_data_bitrail_directionversion���nameminecraft:minecartmetanbtCgAAnameminecraft:chest_minecartmetanbtCgAAnameminecraft:hopper_minecartmetanbtCgAAnameminecraft:tnt_minecartmetanbtCgAAnameminecraft:redstonemetanbtCgAAnameminecraft:redstone_blockmetanbtCgAA 
+
+ blocknameminecraft:redstone_block 
+
+ statesversion���nameminecraft:redstone_torchmetanbtCgAA 
+
+ blocknameminecraft:redstone_torch 
+
+ statestorch_facing_directiontopversion���nameminecraft:levermetanbtCgAA 
+
+ blocknameminecraft:lever 
+
+ stateslever_directiondown_east_westopen_bitversion���nameminecraft:wooden_buttonmetanbtCgAA 
+
+ blocknameminecraft:wooden_button 
+
+ statesfacing_directionbutton_pressed_bitversion���nameminecraft:spruce_buttonmetanbtCgAA 
+
+ blocknameminecraft:spruce_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:birch_buttonmetanbtCgAA 
+
+ blocknameminecraft:birch_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:jungle_buttonmetanbtCgAA 
+
+ blocknameminecraft:jungle_button 
+
+ statesfacing_directionbutton_pressed_bitversion���nameminecraft:acacia_buttonmetanbtCgAAnameminecraft:dark_oak_buttonmetanbtCgAA 
+
+ blocknameminecraft:dark_oak_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:stone_buttonmetanbtCgAA 
+
+ blocknameminecraft:stone_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:crimson_buttonmetanbtCgAA 
+
+ blocknameminecraft:crimson_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:warped_buttonmetanbtCgAA 
+
+ blocknameminecraft:warped_button 
+
+ statesbutton_pressed_bitfacing_directionversion���name$minecraft:polished_blackstone_buttonmetanbtCgAA 
+
+ blockname$minecraft:polished_blackstone_button 
+
+ statesbutton_pressed_bitfacing_directionversion���nameminecraft:tripwire_hookmetanbtCgAA 
+
+ blocknameminecraft:tripwire_hook 
+
+ statesattached_bit        directionpowered_bitversion���nameminecraft:wooden_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:wooden_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:spruce_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:spruce_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:birch_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:birch_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:jungle_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:jungle_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:acacia_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:acacia_pressure_plate 
+
+ statesredstone_signalversion���name!minecraft:dark_oak_pressure_platemetanbtCgAA 
+
+ blockname!minecraft:dark_oak_pressure_plate 
+
+ statesredstone_signalversion���name minecraft:crimson_pressure_platemetanbtCgAA 
+
+ blockname minecraft:crimson_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:warped_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:warped_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:stone_pressure_platemetanbtCgAA 
+
+ blocknameminecraft:stone_pressure_plate 
+
+ statesredstone_signalversion���name'minecraft:light_weighted_pressure_platemetanbtCgAA 
+
+ blockname'minecraft:light_weighted_pressure_plate 
+
+ statesredstone_signalversion���name'minecraft:heavy_weighted_pressure_platemetanbtCgAA 
+
+ blockname'minecraft:heavy_weighted_pressure_plate 
+
+ statesredstone_signalversion���name,minecraft:polished_blackstone_pressure_platemetanbtCgAA 
+
+ blockname,minecraft:polished_blackstone_pressure_plate 
+
+ statesredstone_signalversion���nameminecraft:observermetanbtCgAA 
+
+ blocknameminecraft:observer 
+
+ statespowered_bitfacing_directionversion���nameminecraft:daylight_detectormetanbtCgAA 
+
+ blocknameminecraft:daylight_detector 
+
+ statesredstone_signalversion���nameminecraft:repeatermetanbtCgAAnameminecraft:comparatormetanbtCgAAnameminecraft:hoppermetanbtCgAAnameminecraft:droppermetanbtCgAA 
+
+ blocknameminecraft:dropper 
+
+ statesfacing_direction triggered_bitversion���nameminecraft:dispensermetanbtCgAA 
+
+ blocknameminecraft:dispenser 
+
+ states triggered_bitfacing_directionversion���nameminecraft:pistonmetanbtCgAA 
+
+ blocknameminecraft:piston 
+
+ statesfacing_directionversion���nameminecraft:sticky_pistonmetanbtCgAA 
+
+ blocknameminecraft:sticky_piston 
+
+ statesfacing_directionversion���name minecraft:tntmetanbtCgAA 
+
+ blockname minecraft:tnt 
+
+ statesallow_underwater_bitexplode_bitversion���nameminecraft:name_tagmetanbtCgAAnameminecraft:loommetanbtCgAA 
+
+ blocknameminecraft:loom 
+
+ states	directionversion���nameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermeta nbtCgAAnameminecraft:bannermeta	nbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermeta 
+
+ nbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgAAnameminecraft:bannermetanbtCgADBFR5cGUCAA==name minecraft:creeper_banner_patternmetanbtCgAAnameminecraft:skull_banner_patternmetanbtCgAAnameminecraft:flower_banner_patternmetanbtCgAAnameminecraft:mojang_banner_patternmetanbtCgAAname&minecraft:field_masoned_banner_patternmetanbtCgAAname)minecraft:bordure_indented_banner_patternmetanbtCgAAnameminecraft:piglin_banner_patternmetanbtCgAAnameminecraft:globe_banner_patternmetanbtCgAAnameminecraft:firework_rocketmetanbt4CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwEAAQZGbGlnaHQBAAA=nameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIABwxGaXJld29ya0ZhZGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIIBwxGaXJld29ya0ZhZGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIHBwxGaXJld29ya0ZhZGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAg8HDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIMBwxGaXJld29ya0ZhZGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIOBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAgEHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAgQHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAgUHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgINBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAgkHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIDAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgsHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgoHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCBw1GaXJld29ya0NvbG9yAgIHDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUAAAEGRmxpZ2h0AQAAnameminecraft:firework_rocketmetanbt�CgAKCUZpcmV3b3JrcwkKRXhwbG9zaW9ucwoCAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAcNRmlyZXdvcmtDb2xvcgIGBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAAEGRmxpZ2h0AQAAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICAAcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcr2Llw4Anameminecraft:firework_starmetanbt�CgADC2N1c3RvbUNvbG9y28LFCwoNRmlyZXdvcmtzSXRlbQcNRmlyZXdvcmtDb2xvcgIIBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAAAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICBwcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvctGJkwYAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICDwcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcp+8eAA=nameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICDAcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcsuwqgwAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICDgcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcsX/MwA=nameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgEAAwtjdXN0b21Db2xvcrPH/gQAnameminecraft:firework_starmetanbt�CgADC2N1c3RvbUNvbG9yq+2dDAoNRmlyZXdvcmtzSXRlbQEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAHDUZpcmV3b3JrQ29sb3ICBAcMRmlyZXdvcmtGYWRlAAAAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICBQcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvco+1tgcAnameminecraft:firework_starmeta nbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICDQcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcoXFxQMAnameminecraft:firework_starmeta	nbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgkAAwtjdXN0b21Db2xvcqvRYwA=nameminecraft:firework_starmetanbt�CgADC2N1c3RvbUNvbG9ym6/lBwoNRmlyZXdvcmtzSXRlbQcNRmlyZXdvcmtDb2xvcgIDBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAAAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgsAAwtjdXN0b21Db2xvcoWfCQA=nameminecraft:firework_starmeta 
+
+ nbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDUZpcmV3b3JrQ29sb3ICCgcMRmlyZXdvcmtGYWRlAAEPRmlyZXdvcmtGbGlja2VyAAENRmlyZXdvcmtUcmFpbAABDEZpcmV3b3JrVHlwZQAAAwtjdXN0b21Db2xvcsHj+QcAnameminecraft:firework_starmetanbt�CgAKDUZpcmV3b3Jrc0l0ZW0HDEZpcmV3b3JrRmFkZQABD0ZpcmV3b3JrRmxpY2tlcgABDUZpcmV3b3JrVHJhaWwAAQxGaXJld29ya1R5cGUABw1GaXJld29ya0NvbG9yAgIAAwtjdXN0b21Db2xvctOPjAoAnameminecraft:firework_starmetanbt�CgADC2N1c3RvbUNvbG9yx43LDgoNRmlyZXdvcmtzSXRlbQcNRmlyZXdvcmtDb2xvcgIGBwxGaXJld29ya0ZhZGUAAQ9GaXJld29ya0ZsaWNrZXIAAQ1GaXJld29ya1RyYWlsAAEMRmlyZXdvcmtUeXBlAAAAnameminecraft:chainmetanbtCgAAnameminecraft:targetmetanbtCgAA 
+
+ blocknameminecraft:target 
+
+ statesversion���nameminecraft:lodestone_compassmetanbtCgAAnameminecraft:debug_stickmetanbtCgAA
