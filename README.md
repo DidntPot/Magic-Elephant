@@ -24,7 +24,10 @@
 
 # **CONTRIBUTING**
 
-*Contributions are very welcome! Issues, pull requests and feature requests are highly appreciated. Opening a pull request? Consider joining our Discord server to discuss your changes! Also have a read through the CONTRIBUTING.md for more info.*
+*Contributions are very welcome! Pull requests and feature requests are highly appreciated. Opening a pull request? Consider joining our Discord server to discuss your changes! Also have a read through the CONTRIBUTING.md for more info.*
+
+## !!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!
+OPEn issue = -9999 social credit your execution date is tomoro
 
 
 # **WORLDS**
