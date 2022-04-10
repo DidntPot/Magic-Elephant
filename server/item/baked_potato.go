@@ -4,7 +4,7 @@
 
   
 
- import "github.com/PocketMiner92/magic-alpaca/server/world" 
+ import "github.com/Pocketminer92/magic-alpaca/server/world" 
 
   
 
