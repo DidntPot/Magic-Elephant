@@ -6,11 +6,11 @@
 
  import ( 
 
-         "github.com/PocketMiner92/magic-alpaca/server/entity/effect" 
+         "github.com/Pocketminer92/magic-alpaca/server/entity/effect" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/item" 
+         "github.com/Pocketminer92/magic-alpaca/server/item" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/world" 
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
 
          "github.com/go-gl/mathgl/mgl64" 
 
