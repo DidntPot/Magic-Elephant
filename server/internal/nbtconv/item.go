@@ -6,7 +6,7 @@
 
  import ( 
 
-         "github.com/PocketMiner92/magic-alpaca/server/item/inventory" 
+         "github.com/Pocketminer92/magic-alpaca/server/item/inventory" 
 
  ) 
 
