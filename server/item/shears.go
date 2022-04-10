@@ -6,9 +6,9 @@
 
  import ( 
 
-         "github.com/PocketMiner92/magic-alpaca/server/block/cube" 
+         "github.com/Pocketminer92/magic-alpaca/server/block/cube" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/world" 
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
 
          "github.com/go-gl/mathgl/mgl64" 
 
