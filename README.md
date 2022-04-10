@@ -16,6 +16,8 @@
 
 *This Software isnt ready for use now!*
 
+# COre Technology
+We use GoPHPertunnel to make ser ve r
 
 
 # **START**
