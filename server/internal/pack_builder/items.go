@@ -10,7 +10,7 @@
 
          "fmt" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/world" 
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
 
          "image" 
 
