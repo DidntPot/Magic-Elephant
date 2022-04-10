@@ -6,23 +6,23 @@
 
  import ( 
 
-         "github.com/PocketMiner92/magic-alpaca/server/block/cube" 
+         "github.com/Pocketminer92/magic-alpaca/server/block/cube" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/cmd" 
+         "github.com/Pocketminer92/magic-alpaca/server/cmd" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/entity" 
+         "github.com/Pocketminer92/magic-alpaca/server/entity" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/entity/damage" 
+         "github.com/Pocketminer92/magic-alpaca/server/entity/damage" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/entity/healing" 
+         "github.com/Pocketminer92/magic-alpaca/server/entity/healing" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/event" 
+         "github.com/Pocketminer92/magic-alpaca/server/event" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/item" 
+         "github.com/Pocketminer92/magic-alpaca/server/item" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/player/skin" 
+         "github.com/Pocketminer92/magic-alpaca/server/player/skin" 
 
-         "github.com/PocketMiner92/magic-alpaca/server/world" 
+         "github.com/Pocketminer92/magic-alpaca/server/world" 
 
          "github.com/go-gl/mathgl/mgl64" 
 
