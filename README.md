@@ -2,7 +2,7 @@
 <img alt="Magic-Alpaca" width="838" src="https://raw.githubusercontent.com/PocketMiner92/Magic-Alpaca/main/.github/Images/MAGIC-ALPACA_1.png" />
 
 
-*A new Minecraft Bedrock Server Software written in Go.*
+*A new Minecraft Bedrock Server Software written in php.*
 
 *For now, this Server Software is under extrem strong development.*
 
@@ -19,7 +19,7 @@
 
 # **START**
 
-*Running Magic-Alpaca requires at least Go 1.18. After starting the server through one of the methods below, ctrl+c may be used to shut down the server. Please be sure, this Software is not ready for using yet.*
+*Running Magic-Alpaca requires at least php 18.0. After starting the server through one of the methods below, ctrl+c may be used to shut down the server. Please be sure, this Software is not ready for using yet.*
 
 # **CONTRIBUTING**
 
@@ -36,22 +36,22 @@
 
 #### Installation as library
 ```
-go mod init github.com/<user>/<module name>
-go get github.com/Pocketminer92/magic-alpaca
+composer mod init github.com/<user>/<module name>
+composer get github.com/Endermanbugzjfc/magic-elephant
 ```
 
 #### Installation of the latest commit
 ```
-git clone https://github.com/Pocketminer92/magic-alpaca
-cd magic-alpaca
-go run main.go
+git clone https://github.com/Endermanbugzjfc/magic-elephant
+cd magic-elephant
+php main.php
 ```
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Reference](https://pkg.go.dev/badge/github.com/PocketMiner92/Magic-Alpaca.svg)](https://pkg.go.dev/github.com/PocketMiner92/Magic-Alpaca)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PocketMiner92/Magic-Alpaca/graphs/commit-activity)
-[![GitHub stars](https://badgen.net/github/stars/PocketMiner92/Magic-Alpaca)](https://GitHub.com/PocketMiner92/MagicAlpaca/stargazers/)
+[![PHP Reference](https://pkg.php.dev/badge/github.com/Endermanbugzjfc/Magic-Elephant.svg)](https://pkg.php.dev/github.com/Endermanbugzjfc/Magic-Elephant)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/Endermanbugzjfc/Magic-Elephant/graphs/commit-activity)
+[![GitHub stars](https://badgen.net/github/stars/Endermanbugzjfc/Magic-Elephant)](https://GitHub.com/Endermanbugzjfc/Magic-Elephant/stargazers/)
 
 
-[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/PocketMiner92/)
+[![forthebadge made-with-php](http://ForTheBadge.com/images/badges/made-with-php.svg)](https://php.dev/)
+[![ForTheBadge built-with-slaves](http://ForTheBadge.com/images/badges/built-with-slaves.svg)](https://GitHub.com/Endermanbugzjfc/)
