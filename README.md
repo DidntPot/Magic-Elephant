@@ -1,5 +1,6 @@
 
-<img alt="Magic-Elephant" width="838" src="https://i.imgflip.com/4/2rdw80.jpg" />
+# <img alt="Magic-Elephant" width="202" src="https://i.imgflip.com/4/2rdw80.jpg" /> magial elephant
+<img alt="Magic-Elephant" width="838" src="https://github.com/Endermanbugzjfc/Magic-Elephant/raw/main/Screenshot 2022-04-11 at 07.24.33.png" />
 
 
 *A new Minecraft Bedrock Server Software written in php.*
