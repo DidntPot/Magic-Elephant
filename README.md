@@ -31,6 +31,8 @@ We use GoPHPertunnel to make ser ve r
 ## !!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!
 OPEn issue = -9999 social credit your execution date is tomoro
 
+## AUTO MERGE ENABLED )))))))))))
+
 
 # **WORLDS**
 
