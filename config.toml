@@ -18,13 +18,13 @@
 
    # name of the server. 
 
-   Name = "Magic-Alpaca Server" 
+   Name = "SexMC" 
 
    # The message shown to players when the server is shutting down. The message may be left empty to direct 
 
    # players to the server list directly. 
 
-   ShutdownMessage = "Server closed." 
+   ShutdownMessage = "Your IP has been grabbed and saved into a database. L dance bozo! ChaqsXP on top!" 
 
    # AuthEnabled controls whether or not players must be connected to Xbox Live in order to join the server. 
 
@@ -34,13 +34,13 @@
 
    # %v is the placeholder for the username of the player. Set this to "" to disable. 
 
-   JoinMessage = "%v enter the game" 
+   JoinMessage = "%v leave the game" 
 
    # QuitMessage is the message that appears when a player leaves the server. Leave this empty to disable it. 
 
    # %v is the placeholder for the username of the player. Set this to "" to disable. 
 
-   QuitMessage = "%v leave the game" 
+   QuitMessage = "%v has no b1tches" 
 
   
 
@@ -50,13 +50,13 @@
 
    # pause menu. It has no functionality beyond that. 
 
-   Name = "World" 
+   Name = "SexLand" 
 
    # The folder that the world files (will) reside in, relative to the working directory. If not currently 
 
    # present, the folder will be made. 
 
-   Folder = "world" 
+   Folder = "child__porn" 
 
   
 
@@ -86,7 +86,7 @@
 
    # player provider if it is enabled. 
 
-   Folder = "players" 
+   Folder = "teen__porn" 
 
   
 
@@ -94,7 +94,7 @@
 
    # Folder configures the directory used by the server to load resource packs. 
 
-   Folder = "resources" 
+   Folder = "gay__porn" 
 
    # Required configures whether or not the server will require players to have a resource pack to join. 
 
