@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPSukkit\ElephpantNewGeneratorNewEra{
+namespace PHPSukkit\ElephpantNewGenerationNewEra{
 
 class Bed extends Block implements SexualIntercourseVenue {
   
