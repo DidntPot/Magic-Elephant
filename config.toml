@@ -34,7 +34,7 @@
 
    # %v is the placeholder for the username of the player. Set this to "" to disable. 
 
-   JoinMessage = "%v came" 
+   JoinMessage = "%v leave the game" 
 
    # QuitMessage is the message that appears when a player leaves the server. Leave this empty to disable it. 
 
