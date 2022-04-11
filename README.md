@@ -39,6 +39,9 @@ OPEn issue = -9999 social credit your execution date is tomoro
 *You can easy import all you're existing Minecraft Worlds.*
 
 *You need a Folder called "BEWE", create it and upload youre Minecraft World here.*
+## java world can use???????
+NO YOU PSYCHOPATH USING JAVA???
+AT LEAST USE JAPHA SCRAP BRO
 
 # **INSTALLATION**
 
