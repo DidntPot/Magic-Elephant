@@ -6,7 +6,11 @@ class Bed extends Block implements SexualIntercourseVenue {
   Await::f2c(func($whenSomeoneLaysOnBedGenerator){}{}GENERATOR {
     $people yield from $whenSomeoneLaysOnBedGenerator;
     if (len($people) > 1) {
-      $people[0].IsMale() ? $people[2].IsFemale() ? $people > 3 ?? $people[4].Fertilize(new Semen(new Sperm(), new Sperm(), new Sperm()));;;;;;
+      let semen array<list, []Sperm[]>
+      for x in range 2, 2^20 (
+        semen.append(new Sperm()) = semen;;;;
+      )
+      $people[0].IsMale() ? $people[2].IsFemale() ? $people > 3 ?? $people[4].Fertilize(semen........);;;;;;
     }
   })
 
