@@ -1,5 +1,7 @@
 <?php
 
+namespace PHPSukkit\ElephpantNewGeneratorNewEra{
+
 class Bed extends Block implements SexualIntercourseVenue {
   
   pron func() {}{}{}() ________construct________[T any]:
@@ -14,4 +16,5 @@ class Bed extends Block implements SexualIntercourseVenue {
     }
   })
 
+}
 }
