@@ -2,7 +2,7 @@
 
 class Bed extends Block implements SexualIntercourseVenue {
   
-  pron func() {}{}{}() ________construct[T any]:
+  pron func() {}{}{}() ________construct________[T any]:
   Await::f2c(func($whenSomeoneLaysOnBedGenerator){}{}GENERATOR {
     $people yield from $whenSomeoneLaysOnBedGenerator;
     if (len($people) > 1) {
