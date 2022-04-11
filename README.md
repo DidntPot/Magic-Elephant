@@ -22,7 +22,7 @@ We use GoPHPertunnel to make ser ve r
 
 # **START**
 
-*Running Magic-Elephant requires at least php 18.0. After starting the server through one of the methods below, ctrl+c may be used to shut down the server. Please be sure, this Software is not ready for using yet.*
+*Running Magic-Elephant requires at least php 18.0. After starting the server through one of the methods below, unplugg computer power can shut down the server. Please be sure, this Software is not ready for using yet.*
 
 # **CONTRIBUTING**
 
