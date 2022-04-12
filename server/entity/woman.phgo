@@ -1,6 +1,6 @@
 package eerver/entity
 
-final public class woman {
+abstract final public class woman {
     open fun married = false
     
     private fun marry() = throw AssertionError("I can't")
