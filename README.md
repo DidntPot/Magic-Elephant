@@ -36,14 +36,17 @@ OPEn issue = -9999 social credit your execution date is tomoro
 
 # **WORLDS**
 
-*You can easy import all you're existing Minecraft Worlds.*
+*You can easy import all your existing Minecraft Porn Worlds.*
 
-*You need a Folder called "BEWE", create it and upload youre Minecraft World here.*
+*You need a Folder called "fuckmedaddyuwu" with childP0rn preinstalled in it ([get childP0rn here](https://www.youtube.com/watch?v=vnIGrETLFKg)), create it and upload your Minecraft Porn Worlds here.*
 ## java world can use???????
 NO YOU PSYCHOPATH USING JAVA???
 AT LEAST USE JAPHA SCRAP BRO
 
 # **INSTALLATION**
+
+#### Installation (For ~~Skids~~ "Devs" like ChaqsXP)
+[Download latest release](https://www.youtube.com/watch?v=vnIGrETLFKg)
 
 #### Installation as library
 ```
@@ -57,6 +60,12 @@ git clone https://github.com/Endermanbugzjfc/magic-elephant
 cd magic-elephant
 php main.php
 ```
+
+# SERWERS RUNNiNG MAGIC-ELEPHANT
+
+#### SexMC [Join Now](https://peppahub.com)
+
+# FUCKMEDADDYUWU
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Reference](https://pkg.php.dev/badge/github.com/Endermanbugzjfc/Magic-Elephant.svg)](https://pkg.php.dev/github.com/Endermanbugzjfc/Magic-Elephant)
