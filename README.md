@@ -63,7 +63,7 @@ php main.php
 
 # SERWERS RUNNiNG MAGIC-ELEPHANT
 
-#### SexMC [Join Now](https://peppahub.com)
+#### SexMC [Join Now](https://pepphub.com)
 
 # FUCKMEDADDYUWU
 
