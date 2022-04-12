@@ -61,6 +61,9 @@ cd magic-elephant
 php main.php
 ```
 
+# Extra plugins
+#### Internal Server Error Deleter (yet in developmebtting)
+
 # SERWERS RUNNiNG MAGIC-ELEPHANT
 
 #### SexMC [Join Now](https://pepphub.com)
