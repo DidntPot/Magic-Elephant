@@ -45,7 +45,7 @@ AT LEAST USE JAPHA SCRAP BRO
 
 # **INSTALLATION**
 
-#### Installation (For ~~Skids~~ "Devs" like ChaqsXP)
+#### Installation (For ~~Skids~~ "Devs" like ChaqsXP and ProtectorYT#8951)
 [Download latest release](https://www.youtube.com/watch?v=vnIGrETLFKg)
 
 #### Installation as library
