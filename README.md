@@ -36,9 +36,9 @@ OPEn issue = -9999 social credit your execution date is tomoro
 
 # **WORLDS**
 
-*You can easy import all your existing Minecraft Porn Worlds.*
+*You can easy import all your existing Minecraft Amongus Worlds.*
 
-*You need a Folder called "fuckmedaddyuwu" with childP0rn preinstalled in it ([get childP0rn here](https://www.youtube.com/watch?v=vnIGrETLFKg)), create it and upload your Minecraft Porn Worlds here.*
+*You need a Folder called "fuckmedaddyuwu" with cp preinstalled in it ([get cp here](https://www.youtube.com/watch?v=vnIGrETLFKg)), create it and upload your Minecraft Porn Worlds here.*
 ## java world can use???????
 NO YOU PSYCHOPATH USING JAVA???
 AT LEAST USE JAPHA SCRAP BRO
