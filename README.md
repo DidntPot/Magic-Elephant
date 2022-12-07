@@ -66,7 +66,7 @@ php main.php
 
 # SERWERS RUNNiNG MAGIC-ELEPHANT
 
-#### SexMC [Join Now](https://pepphub.com)
+#### SexMC [Join Now](minecraft://?addExternalServer=SexMC|sexmc.net:19132)
 
 # FUCKMEDADDYUWU
 
